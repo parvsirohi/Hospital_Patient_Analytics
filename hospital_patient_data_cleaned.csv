@@ -1,0 +1,1001 @@
+PatientID,Age,Gender,Department,Diagnosis,AdmissionDate,LengthOfStay,DischargeDate,Readmitted,TreatmentCost
+P0001,69,Male,Cardiology,Hypertension,01-10-2024,1,02-10-2024,No,56600
+P0002,32,Male,Pediatrics,Asthma,24-03-2025,9,02-04-2025,No,68300
+P0003,89,Female,Orthopedics,Appendicitis,06-02-2025,3,09-02-2025,No,34500
+P0004,78,Male,Cardiology,Fracture,10-04-2025,4,14-04-2025,Yes,37100
+P0005,38,Male,Neurology,Fracture,01-11-2024,1,02-11-2024,Yes,35800
+P0006,41,Male,Cardiology,Migraine,07-01-2025,9,16-01-2025,Yes,42700
+P0007,20,Male,Cardiology,Asthma,28-07-2024,8,05-08-2024,Yes,57800
+P0008,39,Female,Pediatrics,Hypertension,07-09-2024,2,09-09-2024,No,41500
+P0009,70,Male,Orthopedics,Asthma,18-02-2025,8,26-02-2025,No,33200
+P0010,19,Male,Neurology,Asthma,03-03-2025,7,10-03-2025,No,19700
+P0011,47,Male,General Surgery,Appendicitis,24-11-2024,11,05-12-2024,Yes,51179.00552
+P0012,55,Male,General Surgery,Migraine,16-09-2024,6,22-09-2024,No,75200
+P0013,19,Female,Cardiology,Asthma,13-09-2024,1,14-09-2024,No,58400
+P0014,81,Female,Pediatrics,Fracture,19-08-2024,7,26-08-2024,No,37800
+P0015,77,Male,Pediatrics,Hypertension,17-09-2024,10,27-09-2024,No,61200
+P0016,38,Male,General Surgery,Appendicitis,24-02-2025,7,03-03-2025,No,64200
+P0017,50,Male,Neurology,Migraine,14-11-2024,13,27-11-2024,Yes,46200
+P0018,75,Male,Orthopedics,Hypertension,12-01-2025,14,26-01-2025,No,50600
+P0019,39,Male,Neurology,Appendicitis,02-01-2025,9,11-01-2025,No,68500
+P0020,66,Male,Orthopedics,Appendicitis,25-11-2024,1,26-11-2024,Yes,25400
+P0021,76,Female,General Surgery,Asthma,20-04-2025,2,22-04-2025,No,65000
+P0022,59,Male,Orthopedics,Asthma,30-08-2024,11,10-09-2024,No,45400
+P0023,77,Female,Pediatrics,Asthma,24-07-2024,9,02-08-2024,Yes,33300
+P0024,32,Female,Cardiology,Appendicitis,02-10-2024,13,15-10-2024,No,49157.47126
+P0025,79,Male,Cardiology,Hypertension,08-04-2025,9,17-04-2025,No,37000
+P0026,79,Female,General Surgery,Migraine,22-12-2024,13,04-01-2025,No,31800
+P0027,64,Female,Pediatrics,Asthma,20-11-2024,6,26-11-2024,Yes,76600
+P0028,79,Female,Neurology,Appendicitis,18-04-2025,6,24-04-2025,No,57400
+P0029,68,Female,Pediatrics,Fracture,27-08-2024,4,31-08-2024,No,66000
+P0030,72,Female,Cardiology,Migraine,23-10-2024,4,27-10-2024,No,58400
+P0031,81,Female,Cardiology,Appendicitis,13-04-2025,5,18-04-2025,No,49157.47126
+P0032,20,Male,Pediatrics,Migraine,01-07-2024,3,04-07-2024,Yes,51100
+P0033,68,Female,Pediatrics,Migraine,01-02-2025,1,02-02-2025,Yes,44000
+P0034,24,Female,Cardiology,Migraine,27-07-2024,1,28-07-2024,No,45300
+P0035,38,Female,Neurology,Migraine,04-10-2024,12,16-10-2024,No,28900
+P0036,56,Male,General Surgery,Fracture,01-08-2024,13,14-08-2024,No,66200
+P0037,35,Female,General Surgery,Asthma,11-11-2024,7,18-11-2024,No,22800
+P0038,21,Male,Pediatrics,Appendicitis,23-12-2024,1,24-12-2024,No,34100
+P0039,77,Female,General Surgery,Migraine,05-08-2024,1,06-08-2024,No,80200
+P0040,31,Male,Cardiology,Appendicitis,31-05-2025,3,03-06-2025,No,49157.47126
+P0041,26,Male,Cardiology,Migraine,01-04-2025,10,11-04-2025,Yes,52700
+P0042,70,Female,Pediatrics,Asthma,17-05-2025,4,21-05-2025,No,59600
+P0043,19,Female,Pediatrics,Hypertension,19-07-2024,4,23-07-2024,No,26900
+P0044,77,Male,Pediatrics,Hypertension,23-02-2025,2,25-02-2025,No,29100
+P0045,88,Female,Neurology,Fracture,16-12-2024,1,17-12-2024,No,43300
+P0046,61,Male,General Surgery,Hypertension,29-12-2024,3,01-01-2025,Yes,36400
+P0047,25,Male,Pediatrics,Migraine,20-06-2025,11,01-07-2025,Yes,48900
+P0048,64,Male,Orthopedics,Migraine,27-04-2025,4,01-05-2025,Yes,57300
+P0049,52,Male,Orthopedics,Migraine,07-07-2024,3,10-07-2024,No,70800
+P0050,53,Male,Cardiology,Fracture,04-12-2024,8,12-12-2024,No,62200
+P0051,67,Female,General Surgery,Migraine,11-05-2025,14,25-05-2025,No,35100
+P0052,21,Male,Pediatrics,Hypertension,30-05-2025,10,09-06-2025,Yes,44400
+P0053,19,Male,Orthopedics,Asthma,16-04-2025,1,17-04-2025,No,40300
+P0054,23,Female,General Surgery,Asthma,06-06-2025,14,20-06-2025,No,34800
+P0055,71,Male,Cardiology,Appendicitis,03-10-2024,2,05-10-2024,No,49157.47126
+P0056,21,Female,Neurology,Hypertension,02-11-2024,13,15-11-2024,No,75000
+P0057,71,Female,General Surgery,Migraine,19-06-2025,7,26-06-2025,No,50200
+P0058,80,Female,General Surgery,Asthma,04-06-2025,4,08-06-2025,No,46600
+P0059,35,Male,Neurology,Hypertension,24-12-2024,8,01-01-2025,Yes,57300
+P0060,52,Male,General Surgery,Appendicitis,06-12-2024,11,17-12-2024,No,51179.00552
+P0061,51,Male,Cardiology,Migraine,13-11-2024,13,26-11-2024,Yes,66800
+P0062,79,Female,Cardiology,Asthma,24-11-2024,3,27-11-2024,No,38800
+P0063,31,Male,Neurology,Appendicitis,03-08-2024,6,09-08-2024,No,56000
+P0064,65,Female,Pediatrics,Appendicitis,12-06-2025,9,21-06-2025,No,49445.45455
+P0065,32,Male,Orthopedics,Asthma,05-07-2024,1,06-07-2024,No,47100
+P0066,89,Female,Pediatrics,Hypertension,01-09-2024,1,02-09-2024,No,50900
+P0067,79,Male,General Surgery,Hypertension,10-06-2025,8,18-06-2025,No,51179.00552
+P0068,57,Male,Orthopedics,Hypertension,16-05-2025,3,19-05-2025,No,48567.19577
+P0069,70,Male,Neurology,Asthma,10-07-2024,5,15-07-2024,No,62000
+P0070,41,Female,Neurology,Hypertension,23-11-2024,1,24-11-2024,No,41000
+P0071,43,Female,Orthopedics,Appendicitis,10-09-2024,5,15-09-2024,No,48567.19577
+P0072,77,Male,Cardiology,Appendicitis,24-12-2024,11,04-01-2025,No,38600
+P0073,58,Male,Orthopedics,Migraine,04-11-2024,6,10-11-2024,No,93800
+P0074,46,Female,General Surgery,Hypertension,19-08-2024,8,27-08-2024,No,36300
+P0075,32,Female,Cardiology,Migraine,04-09-2024,13,17-09-2024,No,39500
+P0076,62,Female,Neurology,Hypertension,27-10-2024,14,10-11-2024,No,63200
+P0077,52,Male,Orthopedics,Appendicitis,21-07-2024,3,24-07-2024,Yes,48567.19577
+P0078,88,Female,Pediatrics,Migraine,25-04-2025,3,28-04-2025,No,63200
+P0079,26,Male,Pediatrics,Asthma,17-05-2025,12,29-05-2025,Yes,52300
+P0080,18,Female,General Surgery,Asthma,17-02-2025,11,28-02-2025,No,44000
+P0081,25,Male,Pediatrics,Fracture,12-07-2024,11,23-07-2024,No,38700
+P0082,80,Female,Orthopedics,Hypertension,06-08-2024,10,16-08-2024,No,38200
+P0083,28,Female,Orthopedics,Appendicitis,15-06-2025,9,24-06-2025,No,44100
+P0084,25,Female,Pediatrics,Hypertension,01-08-2024,4,05-08-2024,No,47400
+P0085,52,Female,Orthopedics,Appendicitis,18-03-2025,4,22-03-2025,No,37500
+P0086,52,Female,General Surgery,Hypertension,08-12-2024,12,20-12-2024,No,48400
+P0087,50,Male,Cardiology,Asthma,17-04-2025,7,24-04-2025,No,33600
+P0088,22,Female,General Surgery,Migraine,03-05-2025,2,05-05-2025,No,61300
+P0089,58,Female,General Surgery,Migraine,23-05-2025,8,31-05-2025,No,51179.00552
+P0090,45,Female,Orthopedics,Fracture,01-08-2024,6,07-08-2024,No,39400
+P0091,24,Male,Cardiology,Appendicitis,15-12-2024,3,18-12-2024,No,38600
+P0092,89,Female,Orthopedics,Appendicitis,19-05-2025,9,28-05-2025,No,52700
+P0093,29,Male,Neurology,Appendicitis,15-04-2025,5,20-04-2025,No,69000
+P0094,51,Female,Orthopedics,Asthma,14-12-2024,8,22-12-2024,No,72300
+P0095,50,Female,Orthopedics,Appendicitis,22-03-2025,7,29-03-2025,No,29000
+P0096,65,Male,Orthopedics,Migraine,04-07-2024,14,18-07-2024,No,65100
+P0097,52,Female,Cardiology,Appendicitis,03-03-2025,8,11-03-2025,Yes,49157.47126
+P0098,79,Male,Orthopedics,Hypertension,17-09-2024,7,24-09-2024,No,49400
+P0099,54,Male,Cardiology,Appendicitis,03-01-2025,3,06-01-2025,No,57600
+P0100,61,Female,Pediatrics,Appendicitis,01-02-2025,2,03-02-2025,No,42800
+P0101,52,Male,Neurology,Hypertension,26-10-2024,7,02-11-2024,No,66500
+P0102,52,Female,Cardiology,Appendicitis,19-09-2024,3,22-09-2024,No,49157.47126
+P0103,64,Female,Pediatrics,Hypertension,04-09-2024,3,07-09-2024,No,71900
+P0104,20,Male,Cardiology,Asthma,15-01-2025,2,17-01-2025,No,22300
+P0105,18,Male,Cardiology,Migraine,31-03-2025,4,04-04-2025,Yes,46600
+P0106,22,Male,Neurology,Hypertension,27-05-2025,8,04-06-2025,No,21000
+P0107,31,Male,General Surgery,Fracture,26-04-2025,12,08-05-2025,No,38500
+P0108,44,Female,General Surgery,Appendicitis,01-08-2024,1,02-08-2024,No,51179.00552
+P0109,26,Female,Cardiology,Appendicitis,04-08-2024,1,05-08-2024,No,56800
+P0110,32,Male,Orthopedics,Asthma,11-06-2025,12,23-06-2025,Yes,53300
+P0111,59,Female,Pediatrics,Asthma,02-02-2025,14,16-02-2025,No,43500
+P0112,68,Female,Orthopedics,Hypertension,23-02-2025,5,28-02-2025,No,38100
+P0113,80,Female,Orthopedics,Migraine,17-08-2024,11,28-08-2024,No,54700
+P0114,69,Female,Cardiology,Fracture,07-02-2025,5,12-02-2025,No,34800
+P0115,21,Male,Cardiology,Asthma,31-03-2025,11,11-04-2025,No,33800
+P0116,40,Male,Cardiology,Appendicitis,25-05-2025,12,06-06-2025,No,32000
+P0117,32,Female,Cardiology,Appendicitis,19-01-2025,1,20-01-2025,No,46900
+P0118,60,Male,General Surgery,Migraine,21-11-2024,6,27-11-2024,No,41300
+P0119,46,Male,Cardiology,Asthma,23-03-2025,1,24-03-2025,Yes,44200
+P0120,53,Male,General Surgery,Hypertension,22-09-2024,5,27-09-2024,No,57800
+P0121,30,Female,General Surgery,Appendicitis,13-04-2025,9,22-04-2025,No,64400
+P0122,49,Female,Cardiology,Migraine,21-09-2024,12,03-10-2024,No,71800
+P0123,88,Female,Neurology,Asthma,16-06-2025,14,30-06-2025,No,50900
+P0124,76,Male,Pediatrics,Asthma,24-11-2024,5,29-11-2024,No,55200
+P0125,45,Female,Orthopedics,Asthma,16-11-2024,6,22-11-2024,No,52800
+P0126,83,Female,General Surgery,Asthma,14-09-2024,8,22-09-2024,No,24900
+P0127,59,Male,Pediatrics,Asthma,12-05-2025,11,23-05-2025,No,44500
+P0128,62,Female,Neurology,Appendicitis,08-02-2025,1,09-02-2025,No,44500
+P0129,79,Female,Orthopedics,Migraine,03-09-2024,14,17-09-2024,No,42300
+P0130,74,Male,Orthopedics,Asthma,11-01-2025,2,13-01-2025,No,49400
+P0131,23,Male,General Surgery,Fracture,18-07-2024,9,27-07-2024,No,46700
+P0132,45,Male,Cardiology,Fracture,21-07-2024,3,24-07-2024,Yes,35200
+P0133,45,Female,Neurology,Migraine,01-02-2025,6,07-02-2025,No,47700
+P0134,61,Female,General Surgery,Hypertension,25-06-2024,5,30-06-2024,No,40400
+P0135,47,Female,Neurology,Hypertension,10-04-2025,11,21-04-2025,No,10700
+P0136,79,Male,Cardiology,Hypertension,17-09-2024,2,19-09-2024,No,29000
+P0137,52,Male,Cardiology,Appendicitis,21-04-2025,14,05-05-2025,No,49157.47126
+P0138,18,Female,General Surgery,Hypertension,10-11-2024,7,17-11-2024,Yes,66400
+P0139,44,Female,Cardiology,Appendicitis,04-09-2024,4,08-09-2024,No,13600
+P0140,52,Male,Pediatrics,Appendicitis,17-01-2025,1,18-01-2025,No,49445.45455
+P0141,20,Male,Orthopedics,Fracture,29-01-2025,13,11-02-2025,No,56500
+P0142,87,Male,General Surgery,Migraine,06-02-2025,4,10-02-2025,No,63200
+P0143,89,Male,Neurology,Migraine,03-03-2025,6,09-03-2025,No,43700
+P0144,44,Female,Pediatrics,Asthma,30-09-2024,7,07-10-2024,No,39800
+P0145,26,Male,General Surgery,Fracture,13-07-2024,7,20-07-2024,No,68300
+P0146,79,Female,Cardiology,Hypertension,10-09-2024,14,24-09-2024,No,61900
+P0147,54,Female,Cardiology,Hypertension,05-05-2025,7,12-05-2025,No,62900
+P0148,68,Female,Cardiology,Appendicitis,25-12-2024,3,28-12-2024,No,43000
+P0149,61,Male,Cardiology,Appendicitis,08-08-2024,6,14-08-2024,No,66700
+P0150,41,Male,Neurology,Hypertension,27-07-2024,13,09-08-2024,No,20800
+P0151,76,Male,Pediatrics,Migraine,19-03-2025,8,27-03-2025,Yes,67000
+P0152,49,Male,Orthopedics,Migraine,27-02-2025,4,03-03-2025,No,49000
+P0153,69,Female,Neurology,Appendicitis,20-08-2024,13,02-09-2024,No,51900
+P0154,79,Male,Neurology,Asthma,13-02-2025,8,21-02-2025,No,35800
+P0155,75,Male,Orthopedics,Hypertension,27-04-2025,2,29-04-2025,Yes,22800
+P0156,69,Female,Orthopedics,Appendicitis,17-02-2025,10,27-02-2025,Yes,51600
+P0157,29,Male,Cardiology,Appendicitis,11-11-2024,9,20-11-2024,No,58300
+P0158,56,Female,Neurology,Hypertension,11-11-2024,9,20-11-2024,No,60500
+P0159,19,Female,General Surgery,Hypertension,23-06-2025,8,01-07-2025,No,58900
+P0160,20,Female,Orthopedics,Migraine,02-07-2024,10,12-07-2024,No,55500
+P0161,73,Female,Orthopedics,Asthma,02-12-2024,14,16-12-2024,No,36100
+P0162,76,Female,Pediatrics,Asthma,12-11-2024,13,25-11-2024,No,61500
+P0163,19,Female,General Surgery,Hypertension,23-06-2025,10,03-07-2025,No,34500
+P0164,19,Female,General Surgery,Fracture,22-09-2024,1,23-09-2024,No,66600
+P0165,71,Female,Orthopedics,Appendicitis,15-07-2024,2,17-07-2024,No,48700
+P0166,18,Male,Cardiology,Appendicitis,21-11-2024,6,27-11-2024,No,49200
+P0167,36,Male,Pediatrics,Hypertension,16-11-2024,10,26-11-2024,No,63000
+P0168,19,Male,General Surgery,Fracture,03-05-2025,5,08-05-2025,Yes,65000
+P0169,70,Male,Orthopedics,Migraine,12-08-2024,12,24-08-2024,No,61600
+P0170,61,Female,General Surgery,Hypertension,15-04-2025,14,29-04-2025,No,37700
+P0171,49,Male,Pediatrics,Hypertension,04-06-2025,9,13-06-2025,No,61400
+P0172,87,Female,Pediatrics,Appendicitis,05-04-2025,5,10-04-2025,No,37800
+P0173,49,Male,Neurology,Hypertension,09-02-2025,2,11-02-2025,No,61800
+P0174,85,Male,Orthopedics,Hypertension,03-10-2024,10,13-10-2024,Yes,28600
+P0175,52,Male,Pediatrics,Appendicitis,06-04-2025,4,10-04-2025,No,49445.45455
+P0176,73,Female,Neurology,Appendicitis,27-02-2025,9,08-03-2025,No,37700
+P0177,34,Male,Neurology,Migraine,22-08-2024,1,23-08-2024,No,63000
+P0178,55,Female,General Surgery,Migraine,14-02-2025,11,25-02-2025,Yes,66700
+P0179,41,Female,General Surgery,Hypertension,28-07-2024,1,29-07-2024,No,53000
+P0180,86,Male,Neurology,Appendicitis,07-02-2025,12,19-02-2025,No,52500
+P0181,87,Male,General Surgery,Migraine,11-07-2024,7,18-07-2024,No,60600
+P0182,28,Male,Pediatrics,Migraine,06-10-2024,11,17-10-2024,No,66800
+P0183,33,Female,Cardiology,Migraine,28-08-2024,3,31-08-2024,No,50600
+P0184,76,Male,Pediatrics,Appendicitis,15-08-2024,10,25-08-2024,No,42500
+P0185,87,Female,Neurology,Appendicitis,13-12-2024,2,15-12-2024,No,59700
+P0186,20,Female,Neurology,Hypertension,20-05-2025,9,29-05-2025,No,22100
+P0187,37,Male,Pediatrics,Asthma,14-12-2024,3,17-12-2024,No,63600
+P0188,76,Male,General Surgery,Migraine,13-02-2025,2,15-02-2025,No,39300
+P0189,53,Female,General Surgery,Asthma,09-11-2024,12,21-11-2024,No,46400
+P0190,36,Female,Neurology,Appendicitis,30-04-2025,8,08-05-2025,No,63700
+P0191,84,Female,Orthopedics,Appendicitis,08-01-2025,10,18-01-2025,No,43800
+P0192,36,Male,General Surgery,Appendicitis,31-05-2025,6,06-06-2025,No,59700
+P0193,37,Female,Pediatrics,Asthma,23-07-2024,6,29-07-2024,Yes,67100
+P0194,88,Male,General Surgery,Appendicitis,01-10-2024,10,11-10-2024,No,51700
+P0195,69,Female,Pediatrics,Hypertension,09-08-2024,11,20-08-2024,No,54700
+P0196,50,Female,Neurology,Appendicitis,14-02-2025,7,21-02-2025,Yes,48200
+P0197,57,Male,General Surgery,Fracture,07-05-2025,7,14-05-2025,No,51700
+P0198,56,Female,Pediatrics,Asthma,04-06-2025,11,15-06-2025,No,33300
+P0199,52,Male,Neurology,Appendicitis,09-01-2025,13,22-01-2025,No,50544.93671
+P0200,28,Male,Orthopedics,Appendicitis,31-03-2025,6,06-04-2025,No,30700
+P0201,74,Female,Pediatrics,Hypertension,27-09-2024,4,01-10-2024,No,36500
+P0202,67,Male,Orthopedics,Migraine,04-10-2024,11,15-10-2024,Yes,20000
+P0203,40,Male,Orthopedics,Appendicitis,06-06-2025,9,15-06-2025,Yes,54000
+P0204,48,Female,Cardiology,Hypertension,11-01-2025,6,17-01-2025,No,75400
+P0205,59,Male,General Surgery,Asthma,06-08-2024,4,10-08-2024,No,43200
+P0206,24,Male,Pediatrics,Fracture,10-05-2025,12,22-05-2025,No,64500
+P0207,33,Male,Orthopedics,Fracture,11-08-2024,3,14-08-2024,No,66900
+P0208,77,Female,Cardiology,Fracture,09-12-2024,4,13-12-2024,No,32000
+P0209,19,Male,Neurology,Asthma,10-06-2025,3,13-06-2025,No,35200
+P0210,18,Female,Pediatrics,Appendicitis,27-05-2025,2,29-05-2025,Yes,49445.45455
+P0211,52,Female,Orthopedics,Appendicitis,17-01-2025,14,31-01-2025,Yes,48567.19577
+P0212,29,Male,General Surgery,Fracture,23-11-2024,5,28-11-2024,Yes,30600
+P0213,86,Male,Cardiology,Appendicitis,09-03-2025,2,11-03-2025,No,40400
+P0214,54,Male,Orthopedics,Migraine,20-08-2024,6,26-08-2024,No,56300
+P0215,49,Female,General Surgery,Asthma,09-04-2025,3,12-04-2025,No,38100
+P0216,26,Male,Orthopedics,Asthma,13-09-2024,6,19-09-2024,Yes,8400
+P0217,36,Male,Pediatrics,Hypertension,23-02-2025,11,06-03-2025,No,45200
+P0218,65,Male,Pediatrics,Hypertension,01-10-2024,10,11-10-2024,Yes,46400
+P0219,20,Male,Pediatrics,Asthma,20-07-2024,9,29-07-2024,No,49445.45455
+P0220,37,Male,Cardiology,Fracture,17-04-2025,1,18-04-2025,No,68900
+P0221,41,Female,Pediatrics,Migraine,19-06-2025,6,25-06-2025,No,50800
+P0222,71,Female,General Surgery,Appendicitis,28-12-2024,9,06-01-2025,No,51179.00552
+P0223,50,Male,Orthopedics,Fracture,13-05-2025,11,24-05-2025,No,65800
+P0224,41,Male,Neurology,Appendicitis,31-01-2025,4,04-02-2025,No,50200
+P0225,89,Male,General Surgery,Hypertension,01-04-2025,11,12-04-2025,No,82000
+P0226,53,Male,General Surgery,Fracture,26-01-2025,12,07-02-2025,No,31000
+P0227,55,Female,Pediatrics,Fracture,15-09-2024,2,17-09-2024,No,36000
+P0228,42,Male,Cardiology,Migraine,21-01-2025,13,03-02-2025,No,59200
+P0229,35,Female,Orthopedics,Migraine,26-10-2024,4,30-10-2024,No,68800
+P0230,83,Female,Cardiology,Appendicitis,06-07-2024,1,07-07-2024,Yes,47000
+P0231,71,Male,Orthopedics,Fracture,18-01-2025,3,21-01-2025,No,34800
+P0232,52,Female,Orthopedics,Fracture,05-10-2024,10,15-10-2024,No,76400
+P0233,78,Female,Cardiology,Migraine,02-05-2025,9,11-05-2025,No,38100
+P0234,58,Female,General Surgery,Hypertension,16-03-2025,10,26-03-2025,No,55100
+P0235,50,Female,Orthopedics,Hypertension,17-12-2024,5,22-12-2024,No,69700
+P0236,52,Male,Cardiology,Appendicitis,15-10-2024,11,26-10-2024,No,49157.47126
+P0237,50,Male,Orthopedics,Migraine,22-07-2024,6,28-07-2024,Yes,40700
+P0238,31,Female,Neurology,Asthma,02-05-2025,3,05-05-2025,No,41700
+P0239,38,Male,General Surgery,Migraine,06-11-2024,5,11-11-2024,Yes,63500
+P0240,65,Male,Pediatrics,Appendicitis,17-03-2025,11,28-03-2025,No,65900
+P0241,37,Male,Orthopedics,Fracture,21-02-2025,8,01-03-2025,No,50500
+P0242,25,Male,Neurology,Appendicitis,19-04-2025,6,25-04-2025,Yes,78200
+P0243,24,Male,Pediatrics,Migraine,13-03-2025,4,17-03-2025,No,50500
+P0244,84,Female,Pediatrics,Fracture,08-09-2024,2,10-09-2024,No,69400
+P0245,34,Male,Orthopedics,Hypertension,10-09-2024,14,24-09-2024,No,43500
+P0246,50,Male,Cardiology,Hypertension,17-01-2025,9,26-01-2025,No,85000
+P0247,65,Male,Orthopedics,Asthma,30-05-2025,13,12-06-2025,No,73600
+P0248,76,Male,Neurology,Migraine,28-02-2025,12,12-03-2025,Yes,48100
+P0249,39,Female,Pediatrics,Migraine,12-05-2025,1,13-05-2025,No,71500
+P0250,47,Female,Orthopedics,Hypertension,12-06-2025,1,13-06-2025,Yes,70800
+P0251,55,Female,Cardiology,Appendicitis,07-04-2025,13,20-04-2025,No,73300
+P0252,68,Female,Orthopedics,Fracture,11-07-2024,4,15-07-2024,Yes,12800
+P0253,71,Male,General Surgery,Appendicitis,16-06-2025,7,23-06-2025,No,60800
+P0254,25,Female,Cardiology,Appendicitis,31-10-2024,1,01-11-2024,No,58100
+P0255,44,Male,Neurology,Hypertension,25-01-2025,9,03-02-2025,No,57100
+P0256,44,Male,Pediatrics,Hypertension,27-08-2024,4,31-08-2024,No,53300
+P0257,38,Male,Orthopedics,Hypertension,19-06-2025,3,22-06-2025,No,53700
+P0258,47,Male,Cardiology,Asthma,19-05-2025,1,20-05-2025,No,69200
+P0259,45,Male,General Surgery,Appendicitis,04-06-2025,10,14-06-2025,Yes,58100
+P0260,81,Female,Cardiology,Migraine,29-08-2024,4,02-09-2024,No,53300
+P0261,86,Female,General Surgery,Fracture,08-07-2024,9,17-07-2024,No,67100
+P0262,78,Female,Neurology,Appendicitis,25-04-2025,13,08-05-2025,Yes,50544.93671
+P0263,65,Female,Pediatrics,Migraine,30-07-2024,14,13-08-2024,Yes,57700
+P0264,36,Male,Neurology,Appendicitis,16-03-2025,10,26-03-2025,No,78000
+P0265,21,Female,Orthopedics,Hypertension,06-08-2024,6,12-08-2024,Yes,43500
+P0266,52,Male,Cardiology,Appendicitis,11-03-2025,6,17-03-2025,No,27300
+P0267,81,Female,General Surgery,Fracture,19-02-2025,1,20-02-2025,No,51100
+P0268,66,Male,General Surgery,Asthma,14-03-2025,10,24-03-2025,No,53200
+P0269,34,Male,Cardiology,Asthma,31-10-2024,2,02-11-2024,No,60800
+P0270,61,Female,Cardiology,Fracture,08-08-2024,11,19-08-2024,No,51600
+P0271,47,Male,Orthopedics,Migraine,07-11-2024,6,13-11-2024,No,61300
+P0272,63,Male,Neurology,Migraine,24-02-2025,2,26-02-2025,No,87600
+P0273,23,Female,General Surgery,Asthma,27-03-2025,3,30-03-2025,No,62000
+P0274,54,Male,Orthopedics,Asthma,07-03-2025,4,11-03-2025,No,64700
+P0275,41,Female,Neurology,Hypertension,04-05-2025,11,15-05-2025,No,48100
+P0276,63,Female,Orthopedics,Migraine,26-08-2024,5,31-08-2024,No,48567.19577
+P0277,70,Female,General Surgery,Fracture,01-09-2024,9,10-09-2024,No,15500
+P0278,52,Male,Cardiology,Appendicitis,11-06-2025,12,23-06-2025,No,49157.47126
+P0279,80,Male,Cardiology,Hypertension,05-08-2024,4,09-08-2024,No,11300
+P0280,49,Male,Neurology,Asthma,08-08-2024,13,21-08-2024,No,57700
+P0281,52,Female,Pediatrics,Appendicitis,25-10-2024,11,05-11-2024,Yes,49445.45455
+P0282,84,Male,Neurology,Hypertension,18-04-2025,9,27-04-2025,No,30300
+P0283,35,Female,Pediatrics,Fracture,27-01-2025,11,07-02-2025,No,52000
+P0284,42,Female,Orthopedics,Asthma,13-11-2024,10,23-11-2024,Yes,38900
+P0285,71,Male,Orthopedics,Appendicitis,08-11-2024,3,11-11-2024,Yes,56800
+P0286,75,Female,General Surgery,Asthma,21-05-2025,8,29-05-2025,Yes,60600
+P0287,84,Male,Pediatrics,Appendicitis,10-10-2024,12,22-10-2024,No,39500
+P0288,63,Male,General Surgery,Hypertension,05-04-2025,1,06-04-2025,No,46400
+P0289,41,Male,Cardiology,Hypertension,29-07-2024,11,09-08-2024,No,53200
+P0290,49,Male,Pediatrics,Appendicitis,27-11-2024,9,06-12-2024,No,49445.45455
+P0291,64,Male,Neurology,Migraine,18-11-2024,9,27-11-2024,Yes,53200
+P0292,40,Female,Cardiology,Appendicitis,21-03-2025,10,31-03-2025,No,28500
+P0293,83,Female,Cardiology,Appendicitis,21-01-2025,2,23-01-2025,No,49157.47126
+P0294,44,Female,Neurology,Asthma,24-12-2024,4,28-12-2024,No,43500
+P0295,19,Male,Cardiology,Fracture,02-03-2025,13,15-03-2025,Yes,28500
+P0296,34,Male,Pediatrics,Asthma,18-02-2025,8,26-02-2025,No,41300
+P0297,50,Male,General Surgery,Appendicitis,20-05-2025,7,27-05-2025,No,51179.00552
+P0298,26,Female,Cardiology,Migraine,19-10-2024,1,20-10-2024,Yes,66000
+P0299,60,Male,Pediatrics,Migraine,31-01-2025,5,05-02-2025,Yes,52600
+P0300,52,Female,Orthopedics,Appendicitis,23-04-2025,7,30-04-2025,No,48567.19577
+P0301,56,Female,Pediatrics,Hypertension,11-09-2024,4,15-09-2024,Yes,74700
+P0302,59,Male,General Surgery,Hypertension,13-02-2025,1,14-02-2025,No,59400
+P0303,43,Male,Pediatrics,Appendicitis,09-04-2025,9,18-04-2025,No,45000
+P0304,67,Female,Neurology,Fracture,15-07-2024,14,29-07-2024,No,26700
+P0305,42,Male,General Surgery,Asthma,18-12-2024,5,23-12-2024,No,43600
+P0306,41,Female,Orthopedics,Asthma,13-05-2025,11,24-05-2025,Yes,46700
+P0307,30,Male,Neurology,Hypertension,03-08-2024,2,05-08-2024,Yes,55500
+P0308,77,Male,Pediatrics,Appendicitis,16-10-2024,8,24-10-2024,No,49445.45455
+P0309,24,Female,General Surgery,Hypertension,02-09-2024,11,13-09-2024,No,62100
+P0310,74,Male,Orthopedics,Appendicitis,08-06-2025,13,21-06-2025,No,25800
+P0311,53,Female,Neurology,Fracture,15-02-2025,2,17-02-2025,No,53100
+P0312,62,Male,Orthopedics,Appendicitis,23-02-2025,3,26-02-2025,No,47600
+P0313,52,Female,Pediatrics,Appendicitis,03-06-2025,14,17-06-2025,Yes,49445.45455
+P0314,82,Female,Orthopedics,Migraine,01-06-2025,10,11-06-2025,No,51000
+P0315,25,Male,Cardiology,Migraine,03-04-2025,1,04-04-2025,Yes,40700
+P0316,33,Female,Neurology,Appendicitis,29-09-2024,11,10-10-2024,No,51700
+P0317,31,Male,Orthopedics,Asthma,01-06-2025,2,03-06-2025,No,49900
+P0318,32,Male,Pediatrics,Fracture,03-02-2025,14,17-02-2025,No,20200
+P0319,83,Male,Pediatrics,Migraine,28-08-2024,7,04-09-2024,No,49445.45455
+P0320,52,Female,Orthopedics,Appendicitis,26-03-2025,10,05-04-2025,No,48567.19577
+P0321,80,Female,Pediatrics,Migraine,16-09-2024,2,18-09-2024,No,49600
+P0322,68,Male,General Surgery,Fracture,17-04-2025,6,23-04-2025,No,36900
+P0323,42,Male,General Surgery,Migraine,04-01-2025,3,07-01-2025,No,33600
+P0324,75,Female,General Surgery,Fracture,19-03-2025,4,23-03-2025,No,63200
+P0325,80,Male,Cardiology,Migraine,24-04-2025,11,05-05-2025,No,66600
+P0326,79,Male,Orthopedics,Appendicitis,01-02-2025,13,14-02-2025,No,56300
+P0327,39,Female,Cardiology,Appendicitis,14-12-2024,8,22-12-2024,No,22800
+P0328,75,Male,Pediatrics,Fracture,27-09-2024,14,11-10-2024,No,49445.45455
+P0329,52,Female,Cardiology,Appendicitis,30-08-2024,3,02-09-2024,No,49157.47126
+P0330,66,Male,Pediatrics,Fracture,24-12-2024,10,03-01-2025,Yes,40100
+P0331,69,Female,Pediatrics,Appendicitis,14-06-2025,6,20-06-2025,No,63000
+P0332,59,Male,Neurology,Appendicitis,08-06-2025,1,09-06-2025,No,59900
+P0333,87,Male,General Surgery,Fracture,17-12-2024,7,24-12-2024,No,56900
+P0334,32,Female,Pediatrics,Asthma,30-06-2024,8,08-07-2024,No,69700
+P0335,71,Male,Neurology,Appendicitis,24-10-2024,11,04-11-2024,No,58400
+P0336,77,Female,General Surgery,Migraine,04-03-2025,14,18-03-2025,Yes,19700
+P0337,25,Male,Pediatrics,Asthma,09-06-2025,8,17-06-2025,No,44500
+P0338,70,Female,Pediatrics,Fracture,18-10-2024,3,21-10-2024,No,49400
+P0339,77,Female,Cardiology,Asthma,31-10-2024,14,14-11-2024,No,47600
+P0340,22,Female,Cardiology,Hypertension,26-07-2024,10,05-08-2024,No,40700
+P0341,85,Female,General Surgery,Hypertension,20-11-2024,1,21-11-2024,No,34500
+P0342,23,Male,Pediatrics,Appendicitis,21-01-2025,9,30-01-2025,No,86000
+P0343,64,Male,Orthopedics,Appendicitis,16-08-2024,13,29-08-2024,No,44200
+P0344,72,Female,Cardiology,Migraine,15-04-2025,6,21-04-2025,No,85300
+P0345,57,Female,General Surgery,Asthma,14-08-2024,11,25-08-2024,No,32900
+P0346,69,Female,Pediatrics,Hypertension,24-02-2025,9,05-03-2025,No,59900
+P0347,52,Male,Pediatrics,Appendicitis,01-05-2025,7,08-05-2025,No,49445.45455
+P0348,30,Male,Orthopedics,Asthma,22-07-2024,1,23-07-2024,No,36200
+P0349,47,Male,General Surgery,Appendicitis,28-08-2024,12,09-09-2024,Yes,43000
+P0350,36,Male,Pediatrics,Appendicitis,19-01-2025,12,31-01-2025,No,49800
+P0351,34,Female,Cardiology,Hypertension,08-09-2024,1,09-09-2024,Yes,37300
+P0352,80,Female,Orthopedics,Hypertension,22-04-2025,6,28-04-2025,No,46200
+P0353,36,Female,General Surgery,Appendicitis,07-08-2024,5,12-08-2024,No,14500
+P0354,75,Male,Orthopedics,Fracture,13-06-2025,9,22-06-2025,No,60700
+P0355,72,Male,Cardiology,Appendicitis,29-01-2025,2,31-01-2025,Yes,68400
+P0356,79,Male,General Surgery,Appendicitis,13-07-2024,8,21-07-2024,No,56800
+P0357,40,Female,Orthopedics,Migraine,23-05-2025,11,03-06-2025,No,84000
+P0358,26,Female,Neurology,Migraine,20-02-2025,5,25-02-2025,No,60200
+P0359,29,Male,Cardiology,Migraine,15-12-2024,2,17-12-2024,No,67100
+P0360,18,Female,Cardiology,Fracture,20-12-2024,13,02-01-2025,No,68600
+P0361,75,Male,Cardiology,Fracture,03-04-2025,10,13-04-2025,Yes,8700
+P0362,18,Male,Neurology,Appendicitis,02-09-2024,11,13-09-2024,No,56400
+P0363,51,Female,Neurology,Migraine,26-10-2024,11,06-11-2024,No,29300
+P0364,65,Male,Pediatrics,Fracture,31-03-2025,12,12-04-2025,No,32300
+P0365,18,Female,Orthopedics,Hypertension,22-03-2025,6,28-03-2025,No,34900
+P0366,33,Male,Pediatrics,Appendicitis,11-05-2025,10,21-05-2025,Yes,45300
+P0367,78,Female,Orthopedics,Asthma,20-04-2025,8,28-04-2025,No,59800
+P0368,81,Female,Neurology,Appendicitis,11-07-2024,4,15-07-2024,Yes,56500
+P0369,80,Female,Neurology,Asthma,27-03-2025,2,29-03-2025,No,49800
+P0370,86,Male,Pediatrics,Migraine,03-07-2024,12,15-07-2024,No,60800
+P0371,52,Male,General Surgery,Appendicitis,24-12-2024,11,04-01-2025,No,51179.00552
+P0372,52,Female,Pediatrics,Appendicitis,12-03-2025,5,17-03-2025,No,49445.45455
+P0373,43,Female,Orthopedics,Hypertension,21-11-2024,12,03-12-2024,No,24100
+P0374,33,Male,Pediatrics,Asthma,18-05-2025,2,20-05-2025,Yes,38900
+P0375,68,Male,Cardiology,Appendicitis,13-11-2024,2,15-11-2024,No,50400
+P0376,74,Male,Orthopedics,Migraine,18-04-2025,6,24-04-2025,No,61000
+P0377,46,Female,Orthopedics,Appendicitis,30-05-2025,11,10-06-2025,Yes,30100
+P0378,86,Male,General Surgery,Fracture,02-02-2025,10,12-02-2025,No,49800
+P0379,64,Male,Neurology,Migraine,01-07-2024,9,10-07-2024,No,26500
+P0380,79,Female,Orthopedics,Asthma,09-01-2025,13,22-01-2025,No,65400
+P0381,86,Male,Neurology,Migraine,20-11-2024,4,24-11-2024,No,53600
+P0382,33,Male,Pediatrics,Appendicitis,12-08-2024,6,18-08-2024,No,29800
+P0383,65,Male,Cardiology,Hypertension,18-04-2025,7,25-04-2025,No,49157.47126
+P0384,56,Female,General Surgery,Migraine,11-03-2025,13,24-03-2025,No,55800
+P0385,50,Female,Neurology,Asthma,18-08-2024,11,29-08-2024,No,70600
+P0386,40,Female,Orthopedics,Fracture,21-01-2025,6,27-01-2025,No,33500
+P0387,27,Female,Neurology,Hypertension,08-11-2024,8,16-11-2024,No,61800
+P0388,86,Female,Orthopedics,Fracture,25-11-2024,4,29-11-2024,No,41900
+P0389,51,Female,Neurology,Migraine,03-05-2025,12,15-05-2025,No,62300
+P0390,69,Female,Orthopedics,Appendicitis,25-02-2025,1,26-02-2025,No,60200
+P0391,27,Male,Pediatrics,Appendicitis,14-03-2025,7,21-03-2025,No,52300
+P0392,36,Male,Orthopedics,Asthma,23-10-2024,3,26-10-2024,No,22500
+P0393,75,Female,Orthopedics,Appendicitis,25-07-2024,14,08-08-2024,No,60200
+P0394,18,Male,Cardiology,Hypertension,05-07-2024,6,11-07-2024,No,57500
+P0395,86,Male,Orthopedics,Appendicitis,22-03-2025,2,24-03-2025,No,56200
+P0396,21,Female,Cardiology,Asthma,02-07-2024,9,11-07-2024,No,52900
+P0397,33,Male,General Surgery,Migraine,22-11-2024,1,23-11-2024,Yes,36800
+P0398,41,Male,Cardiology,Migraine,14-04-2025,6,20-04-2025,No,66200
+P0399,19,Male,Pediatrics,Appendicitis,09-07-2024,6,15-07-2024,No,63500
+P0400,49,Male,Cardiology,Fracture,01-05-2025,5,06-05-2025,No,33900
+P0401,41,Male,General Surgery,Migraine,15-07-2024,13,28-07-2024,No,69700
+P0402,29,Female,Pediatrics,Appendicitis,21-12-2024,5,26-12-2024,No,52000
+P0403,67,Female,Neurology,Asthma,21-02-2025,1,22-02-2025,Yes,51900
+P0404,52,Female,Neurology,Appendicitis,05-12-2024,10,15-12-2024,No,47400
+P0405,50,Male,Cardiology,Migraine,27-04-2025,12,09-05-2025,No,48800
+P0406,50,Female,Cardiology,Asthma,24-07-2024,5,29-07-2024,No,70600
+P0407,78,Male,General Surgery,Appendicitis,02-10-2024,2,04-10-2024,Yes,65500
+P0408,68,Male,General Surgery,Hypertension,31-05-2025,7,07-06-2025,Yes,65200
+P0409,60,Male,Orthopedics,Asthma,06-11-2024,3,09-11-2024,No,52800
+P0410,29,Male,General Surgery,Hypertension,30-08-2024,13,12-09-2024,No,63300
+P0411,84,Female,Orthopedics,Fracture,04-09-2024,4,08-09-2024,No,37500
+P0412,52,Female,Pediatrics,Appendicitis,12-07-2024,3,15-07-2024,No,49445.45455
+P0413,50,Male,Cardiology,Hypertension,21-10-2024,3,24-10-2024,No,47700
+P0414,57,Female,Pediatrics,Migraine,24-01-2025,4,28-01-2025,Yes,19100
+P0415,60,Male,General Surgery,Migraine,13-09-2024,5,18-09-2024,No,26200
+P0416,61,Female,Pediatrics,Fracture,15-07-2024,1,16-07-2024,No,40100
+P0417,46,Female,Pediatrics,Asthma,26-07-2024,4,30-07-2024,No,56200
+P0418,30,Male,Pediatrics,Asthma,29-12-2024,12,10-01-2025,No,40100
+P0419,29,Female,General Surgery,Asthma,16-02-2025,12,28-02-2025,No,41100
+P0420,63,Male,Pediatrics,Fracture,25-08-2024,11,05-09-2024,No,61400
+P0421,19,Female,Orthopedics,Asthma,21-07-2024,8,29-07-2024,No,41700
+P0422,52,Male,General Surgery,Migraine,04-02-2025,10,14-02-2025,Yes,70000
+P0423,25,Male,Pediatrics,Hypertension,17-04-2025,7,24-04-2025,Yes,67500
+P0424,43,Female,General Surgery,Migraine,06-02-2025,9,15-02-2025,No,50300
+P0425,51,Female,Neurology,Migraine,19-06-2025,5,24-06-2025,Yes,61300
+P0426,24,Male,Orthopedics,Hypertension,24-12-2024,13,06-01-2025,No,59300
+P0427,85,Female,Pediatrics,Migraine,07-08-2024,10,17-08-2024,No,46300
+P0428,75,Female,Neurology,Fracture,29-10-2024,4,02-11-2024,No,62900
+P0429,46,Male,Neurology,Hypertension,17-01-2025,8,25-01-2025,No,65100
+P0430,53,Male,General Surgery,Migraine,16-11-2024,9,25-11-2024,No,35700
+P0431,38,Female,Neurology,Appendicitis,28-04-2025,13,11-05-2025,No,52300
+P0432,53,Male,Orthopedics,Migraine,21-10-2024,7,28-10-2024,No,52100
+P0433,27,Male,Orthopedics,Fracture,07-04-2025,14,21-04-2025,Yes,62700
+P0434,41,Male,Cardiology,Asthma,18-02-2025,7,25-02-2025,No,43300
+P0435,81,Female,Orthopedics,Migraine,02-06-2025,5,07-06-2025,No,41000
+P0436,66,Female,Neurology,Asthma,15-09-2024,4,19-09-2024,No,52500
+P0437,53,Male,Orthopedics,Appendicitis,23-10-2024,14,06-11-2024,Yes,48567.19577
+P0438,41,Female,General Surgery,Migraine,23-02-2025,10,05-03-2025,No,32000
+P0439,40,Male,Cardiology,Hypertension,31-05-2025,1,01-06-2025,No,34600
+P0440,52,Female,Neurology,Appendicitis,20-08-2024,10,30-08-2024,No,50544.93671
+P0441,54,Male,Cardiology,Appendicitis,14-02-2025,10,24-02-2025,No,44900
+P0442,29,Male,Neurology,Hypertension,06-02-2025,7,13-02-2025,No,23500
+P0443,72,Female,General Surgery,Hypertension,11-03-2025,1,12-03-2025,No,72500
+P0444,30,Male,Cardiology,Hypertension,25-09-2024,1,26-09-2024,No,48000
+P0445,40,Female,Pediatrics,Hypertension,25-11-2024,5,30-11-2024,No,45800
+P0446,47,Female,Neurology,Migraine,07-06-2025,13,20-06-2025,No,74300
+P0447,34,Male,Pediatrics,Migraine,24-04-2025,9,03-05-2025,Yes,60800
+P0448,79,Male,Cardiology,Migraine,24-04-2025,6,30-04-2025,Yes,42000
+P0449,30,Female,Pediatrics,Appendicitis,28-01-2025,3,31-01-2025,No,52500
+P0450,76,Male,Pediatrics,Appendicitis,12-04-2025,13,25-04-2025,No,49400
+P0451,36,Male,Cardiology,Appendicitis,31-07-2024,3,03-08-2024,No,71700
+P0452,66,Male,General Surgery,Fracture,29-01-2025,7,05-02-2025,Yes,51179.00552
+P0453,29,Male,Pediatrics,Appendicitis,31-01-2025,6,06-02-2025,No,28400
+P0454,78,Male,Pediatrics,Migraine,09-07-2024,9,18-07-2024,Yes,21800
+P0455,36,Female,General Surgery,Migraine,21-01-2025,6,27-01-2025,Yes,72100
+P0456,26,Female,Pediatrics,Fracture,16-03-2025,5,21-03-2025,No,38200
+P0457,88,Male,Pediatrics,Fracture,06-01-2025,10,16-01-2025,Yes,60100
+P0458,45,Male,Pediatrics,Appendicitis,15-03-2025,7,22-03-2025,No,51100
+P0459,69,Male,Orthopedics,Asthma,07-07-2024,1,08-07-2024,No,43800
+P0460,33,Female,General Surgery,Fracture,19-02-2025,12,03-03-2025,No,46100
+P0461,86,Male,Pediatrics,Hypertension,08-07-2024,7,15-07-2024,Yes,73800
+P0462,29,Female,General Surgery,Migraine,29-12-2024,3,01-01-2025,Yes,28300
+P0463,42,Female,Neurology,Hypertension,04-08-2024,14,18-08-2024,Yes,44200
+P0464,69,Female,Neurology,Migraine,07-11-2024,9,16-11-2024,Yes,63600
+P0465,70,Male,Pediatrics,Migraine,27-11-2024,6,03-12-2024,No,30800
+P0466,40,Female,General Surgery,Fracture,26-04-2025,9,05-05-2025,No,69800
+P0467,33,Male,General Surgery,Fracture,01-01-2025,13,14-01-2025,No,63400
+P0468,74,Female,General Surgery,Hypertension,26-09-2024,5,01-10-2024,No,54100
+P0469,56,Male,Orthopedics,Migraine,27-10-2024,7,03-11-2024,No,42500
+P0470,70,Female,Neurology,Hypertension,25-11-2024,13,08-12-2024,No,28800
+P0471,59,Male,General Surgery,Asthma,28-12-2024,14,11-01-2025,No,60600
+P0472,75,Female,General Surgery,Hypertension,01-03-2025,4,05-03-2025,No,91200
+P0473,56,Male,Orthopedics,Appendicitis,30-12-2024,7,06-01-2025,No,52200
+P0474,31,Male,Orthopedics,Hypertension,16-09-2024,13,29-09-2024,No,22600
+P0475,22,Male,General Surgery,Appendicitis,03-08-2024,1,04-08-2024,No,56900
+P0476,52,Male,Cardiology,Appendicitis,08-07-2024,7,15-07-2024,No,62900
+P0477,35,Female,General Surgery,Appendicitis,18-07-2024,8,26-07-2024,No,36200
+P0478,26,Female,General Surgery,Asthma,24-03-2025,5,29-03-2025,No,40300
+P0479,75,Male,Orthopedics,Hypertension,24-04-2025,2,26-04-2025,No,38800
+P0480,34,Female,Orthopedics,Hypertension,17-03-2025,5,22-03-2025,No,42000
+P0481,24,Male,General Surgery,Asthma,24-11-2024,6,30-11-2024,No,47400
+P0482,63,Male,General Surgery,Migraine,31-05-2025,12,12-06-2025,No,37100
+P0483,30,Female,General Surgery,Fracture,24-08-2024,2,26-08-2024,No,31500
+P0484,57,Male,Orthopedics,Hypertension,09-10-2024,14,23-10-2024,Yes,52600
+P0485,59,Male,General Surgery,Fracture,21-06-2025,6,27-06-2025,Yes,47300
+P0486,26,Female,General Surgery,Asthma,13-07-2024,6,19-07-2024,No,43500
+P0487,67,Male,Pediatrics,Migraine,28-04-2025,1,29-04-2025,No,51200
+P0488,44,Male,Cardiology,Migraine,25-01-2025,14,08-02-2025,No,27200
+P0489,83,Male,Neurology,Migraine,26-10-2024,1,27-10-2024,No,53900
+P0490,22,Male,Cardiology,Asthma,27-09-2024,14,11-10-2024,No,43800
+P0491,46,Female,Pediatrics,Appendicitis,21-01-2025,11,01-02-2025,No,53600
+P0492,54,Female,Neurology,Appendicitis,28-12-2024,10,07-01-2025,No,56000
+P0493,55,Female,General Surgery,Fracture,07-03-2025,3,10-03-2025,No,67000
+P0494,25,Male,Pediatrics,Appendicitis,03-03-2025,14,17-03-2025,No,49445.45455
+P0495,82,Male,General Surgery,Appendicitis,10-07-2024,10,20-07-2024,Yes,66000
+P0496,34,Female,Orthopedics,Migraine,06-03-2025,10,16-03-2025,Yes,45200
+P0497,88,Male,Pediatrics,Migraine,05-10-2024,12,17-10-2024,No,45900
+P0498,62,Male,Orthopedics,Fracture,04-09-2024,3,07-09-2024,No,48600
+P0499,21,Male,Pediatrics,Hypertension,09-10-2024,4,13-10-2024,No,61600
+P0500,52,Male,Pediatrics,Appendicitis,25-08-2024,2,27-08-2024,Yes,49445.45455
+P0501,87,Female,Orthopedics,Fracture,19-05-2025,9,28-05-2025,No,52000
+P0502,48,Female,Neurology,Asthma,01-11-2024,10,11-11-2024,Yes,31600
+P0503,36,Female,Cardiology,Asthma,22-12-2024,12,03-01-2025,Yes,59200
+P0504,78,Male,General Surgery,Fracture,02-06-2025,11,13-06-2025,No,37100
+P0505,71,Female,Pediatrics,Fracture,04-10-2024,14,18-10-2024,No,36300
+P0506,56,Female,General Surgery,Fracture,21-06-2025,7,28-06-2025,Yes,32900
+P0507,36,Male,Orthopedics,Appendicitis,02-09-2024,7,09-09-2024,Yes,48800
+P0508,56,Male,General Surgery,Asthma,17-11-2024,6,23-11-2024,No,68200
+P0509,84,Female,Orthopedics,Fracture,13-12-2024,3,16-12-2024,Yes,35500
+P0510,62,Female,General Surgery,Migraine,17-12-2024,6,23-12-2024,No,75200
+P0511,30,Female,Cardiology,Migraine,16-04-2025,14,30-04-2025,No,63600
+P0512,75,Female,Cardiology,Appendicitis,22-07-2024,12,03-08-2024,Yes,28000
+P0513,37,Male,Cardiology,Appendicitis,14-12-2024,8,22-12-2024,Yes,44300
+P0514,52,Female,Cardiology,Appendicitis,24-04-2025,8,02-05-2025,No,49157.47126
+P0515,78,Female,Cardiology,Hypertension,30-12-2024,11,10-01-2025,No,60000
+P0516,56,Male,Cardiology,Hypertension,24-03-2025,13,06-04-2025,No,35200
+P0517,18,Female,Orthopedics,Appendicitis,01-01-2025,9,10-01-2025,No,25700
+P0518,20,Male,Pediatrics,Appendicitis,23-06-2025,1,24-06-2025,No,45100
+P0519,79,Male,General Surgery,Appendicitis,18-06-2025,14,02-07-2025,No,67500
+P0520,80,Male,Cardiology,Migraine,16-08-2024,1,17-08-2024,No,47100
+P0521,42,Female,Orthopedics,Appendicitis,18-05-2025,3,21-05-2025,No,56000
+P0522,52,Female,Orthopedics,Appendicitis,27-05-2025,3,30-05-2025,No,48567.19577
+P0523,50,Male,Orthopedics,Hypertension,04-10-2024,10,14-10-2024,No,48567.19577
+P0524,55,Female,Pediatrics,Hypertension,20-07-2024,8,28-07-2024,No,36500
+P0525,23,Female,General Surgery,Hypertension,28-01-2025,10,07-02-2025,No,50100
+P0526,75,Male,Pediatrics,Fracture,02-01-2025,1,03-01-2025,Yes,41600
+P0527,61,Male,Neurology,Fracture,11-10-2024,13,24-10-2024,No,75600
+P0528,52,Female,Orthopedics,Appendicitis,11-01-2025,2,13-01-2025,No,48567.19577
+P0529,49,Male,Neurology,Asthma,09-10-2024,2,11-10-2024,Yes,36400
+P0530,62,Female,Cardiology,Asthma,09-08-2024,3,12-08-2024,Yes,54400
+P0531,78,Female,Cardiology,Fracture,27-02-2025,13,12-03-2025,No,40600
+P0532,64,Female,Pediatrics,Fracture,10-12-2024,6,16-12-2024,No,6600
+P0533,38,Female,General Surgery,Asthma,29-10-2024,1,30-10-2024,No,79000
+P0534,53,Male,Neurology,Asthma,14-08-2024,2,16-08-2024,No,33900
+P0535,36,Male,General Surgery,Appendicitis,10-07-2024,13,23-07-2024,No,58400
+P0536,37,Male,Pediatrics,Asthma,02-10-2024,13,15-10-2024,Yes,31200
+P0537,74,Male,Cardiology,Appendicitis,16-09-2024,1,17-09-2024,No,37100
+P0538,35,Female,General Surgery,Migraine,05-10-2024,5,10-10-2024,No,25700
+P0539,64,Female,General Surgery,Fracture,30-09-2024,13,13-10-2024,No,38900
+P0540,66,Male,Cardiology,Asthma,05-07-2024,13,18-07-2024,No,40300
+P0541,31,Female,Neurology,Fracture,03-02-2025,7,10-02-2025,No,48000
+P0542,32,Female,Cardiology,Fracture,16-12-2024,8,24-12-2024,Yes,44400
+P0543,48,Female,General Surgery,Appendicitis,23-10-2024,10,02-11-2024,No,51179.00552
+P0544,18,Male,Neurology,Appendicitis,02-11-2024,1,03-11-2024,Yes,50544.93671
+P0545,71,Male,Neurology,Hypertension,10-12-2024,7,17-12-2024,No,71700
+P0546,20,Male,Cardiology,Asthma,24-03-2025,13,06-04-2025,Yes,69900
+P0547,33,Female,General Surgery,Hypertension,13-12-2024,5,18-12-2024,Yes,56800
+P0548,74,Male,Pediatrics,Hypertension,24-01-2025,10,03-02-2025,No,59900
+P0549,29,Male,General Surgery,Hypertension,18-07-2024,1,19-07-2024,No,51179.00552
+P0550,52,Male,Orthopedics,Appendicitis,19-05-2025,3,22-05-2025,No,48567.19577
+P0551,89,Male,Pediatrics,Appendicitis,19-09-2024,7,26-09-2024,Yes,59700
+P0552,41,Male,Neurology,Fracture,16-01-2025,10,26-01-2025,Yes,26500
+P0553,45,Male,Pediatrics,Fracture,13-07-2024,1,14-07-2024,No,33300
+P0554,25,Female,Neurology,Hypertension,18-12-2024,7,25-12-2024,Yes,49500
+P0555,53,Female,Neurology,Fracture,16-08-2024,5,21-08-2024,Yes,37900
+P0556,25,Male,Pediatrics,Hypertension,01-04-2025,1,02-04-2025,No,35000
+P0557,75,Male,Neurology,Appendicitis,22-05-2025,1,23-05-2025,No,36800
+P0558,77,Female,Neurology,Asthma,06-04-2025,14,20-04-2025,No,28600
+P0559,67,Female,Orthopedics,Hypertension,23-06-2025,1,24-06-2025,No,38100
+P0560,45,Male,General Surgery,Appendicitis,14-10-2024,11,25-10-2024,No,55100
+P0561,58,Male,General Surgery,Asthma,20-04-2025,9,29-04-2025,No,76900
+P0562,81,Male,Orthopedics,Migraine,20-06-2025,11,01-07-2025,No,62000
+P0563,44,Male,Pediatrics,Hypertension,13-12-2024,13,26-12-2024,No,59500
+P0564,80,Female,Cardiology,Hypertension,31-03-2025,3,03-04-2025,Yes,25600
+P0565,34,Male,Cardiology,Migraine,21-05-2025,13,03-06-2025,No,51800
+P0566,50,Male,Cardiology,Migraine,24-04-2025,5,29-04-2025,Yes,49000
+P0567,46,Male,Orthopedics,Hypertension,06-05-2025,11,17-05-2025,No,54400
+P0568,30,Male,Orthopedics,Migraine,28-03-2025,10,07-04-2025,Yes,44600
+P0569,63,Female,Neurology,Fracture,01-01-2025,12,13-01-2025,No,74900
+P0570,52,Female,Cardiology,Asthma,07-07-2024,9,16-07-2024,No,50800
+P0571,23,Female,Pediatrics,Appendicitis,27-12-2024,6,02-01-2025,Yes,49445.45455
+P0572,86,Male,Pediatrics,Asthma,22-02-2025,12,06-03-2025,Yes,20600
+P0573,64,Male,Cardiology,Fracture,20-09-2024,9,29-09-2024,No,48400
+P0574,42,Female,Cardiology,Migraine,10-05-2025,8,18-05-2025,No,67200
+P0575,83,Male,Cardiology,Appendicitis,16-05-2025,8,24-05-2025,No,58300
+P0576,27,Male,Orthopedics,Migraine,04-11-2024,1,05-11-2024,No,17700
+P0577,73,Female,Orthopedics,Hypertension,22-08-2024,13,04-09-2024,No,43300
+P0578,47,Female,Orthopedics,Asthma,24-07-2024,9,02-08-2024,No,76000
+P0579,22,Female,General Surgery,Appendicitis,19-09-2024,6,25-09-2024,No,51179.00552
+P0580,50,Female,Pediatrics,Appendicitis,14-11-2024,9,23-11-2024,No,54800
+P0581,82,Male,Pediatrics,Hypertension,31-03-2025,3,03-04-2025,No,74300
+P0582,35,Male,Neurology,Fracture,27-06-2024,12,09-07-2024,No,47700
+P0583,66,Female,Orthopedics,Fracture,30-11-2024,3,03-12-2024,No,61900
+P0584,28,Male,General Surgery,Appendicitis,04-08-2024,6,10-08-2024,No,56200
+P0585,52,Female,General Surgery,Appendicitis,07-10-2024,9,16-10-2024,No,51179.00552
+P0586,80,Female,Pediatrics,Asthma,27-12-2024,7,03-01-2025,Yes,55700
+P0587,76,Male,Orthopedics,Migraine,03-04-2025,14,17-04-2025,Yes,41800
+P0588,44,Female,Neurology,Hypertension,26-04-2025,13,09-05-2025,No,43300
+P0589,66,Male,Orthopedics,Fracture,23-08-2024,3,26-08-2024,No,37200
+P0590,50,Male,Cardiology,Appendicitis,04-12-2024,3,07-12-2024,No,49157.47126
+P0591,18,Male,Orthopedics,Appendicitis,13-05-2025,2,15-05-2025,Yes,48567.19577
+P0592,38,Male,Cardiology,Migraine,02-06-2025,9,11-06-2025,No,50200
+P0593,72,Female,Cardiology,Appendicitis,05-12-2024,13,18-12-2024,No,67900
+P0594,23,Male,Neurology,Appendicitis,06-12-2024,3,09-12-2024,Yes,73500
+P0595,86,Female,Pediatrics,Hypertension,23-08-2024,11,03-09-2024,No,50800
+P0596,22,Female,Orthopedics,Asthma,06-03-2025,5,11-03-2025,No,30300
+P0597,20,Female,Cardiology,Migraine,05-04-2025,14,19-04-2025,No,47100
+P0598,70,Female,Orthopedics,Hypertension,06-03-2025,14,20-03-2025,No,39900
+P0599,40,Male,Pediatrics,Asthma,23-11-2024,9,02-12-2024,No,20300
+P0600,70,Male,Pediatrics,Hypertension,25-06-2024,8,03-07-2024,No,42500
+P0601,54,Female,General Surgery,Hypertension,26-08-2024,2,28-08-2024,No,48900
+P0602,52,Female,Pediatrics,Appendicitis,22-07-2024,3,25-07-2024,No,49445.45455
+P0603,18,Male,Neurology,Asthma,10-11-2024,2,12-11-2024,No,38400
+P0604,68,Female,Cardiology,Migraine,11-12-2024,8,19-12-2024,No,30800
+P0605,62,Male,General Surgery,Appendicitis,21-07-2024,6,27-07-2024,No,51179.00552
+P0606,21,Female,Neurology,Asthma,13-09-2024,6,19-09-2024,No,78000
+P0607,79,Male,Orthopedics,Appendicitis,08-09-2024,12,20-09-2024,Yes,69200
+P0608,82,Female,Cardiology,Fracture,07-05-2025,9,16-05-2025,No,59800
+P0609,49,Female,Pediatrics,Hypertension,04-12-2024,8,12-12-2024,No,60100
+P0610,51,Male,Cardiology,Appendicitis,07-05-2025,4,11-05-2025,Yes,48000
+P0611,89,Female,Orthopedics,Asthma,19-12-2024,12,31-12-2024,No,22900
+P0612,56,Female,General Surgery,Hypertension,01-09-2024,4,05-09-2024,Yes,44500
+P0613,43,Male,General Surgery,Migraine,15-01-2025,9,24-01-2025,No,35500
+P0614,51,Female,General Surgery,Fracture,24-03-2025,1,25-03-2025,No,52300
+P0615,71,Male,Pediatrics,Migraine,21-12-2024,13,03-01-2025,No,68500
+P0616,20,Male,Neurology,Asthma,14-06-2025,2,16-06-2025,Yes,79600
+P0617,67,Female,Neurology,Hypertension,23-09-2024,2,25-09-2024,Yes,51000
+P0618,29,Female,Cardiology,Appendicitis,07-11-2024,13,20-11-2024,No,49157.47126
+P0619,82,Female,Pediatrics,Hypertension,04-08-2024,13,17-08-2024,No,50900
+P0620,71,Female,General Surgery,Appendicitis,07-12-2024,6,13-12-2024,No,51300
+P0621,22,Female,General Surgery,Fracture,01-12-2024,4,05-12-2024,No,60200
+P0622,52,Female,Orthopedics,Appendicitis,05-05-2025,13,18-05-2025,No,48567.19577
+P0623,34,Female,Orthopedics,Appendicitis,29-07-2024,11,09-08-2024,No,51000
+P0624,64,Male,General Surgery,Asthma,15-07-2024,10,25-07-2024,No,40500
+P0625,40,Female,General Surgery,Fracture,20-04-2025,13,03-05-2025,No,45300
+P0626,31,Male,Pediatrics,Hypertension,11-03-2025,3,14-03-2025,No,57700
+P0627,52,Female,Neurology,Appendicitis,03-07-2024,3,06-07-2024,No,50544.93671
+P0628,68,Female,Orthopedics,Migraine,16-09-2024,3,19-09-2024,Yes,45200
+P0629,55,Male,Neurology,Hypertension,14-12-2024,6,20-12-2024,No,60300
+P0630,81,Female,Pediatrics,Asthma,19-07-2024,14,02-08-2024,No,74600
+P0631,55,Female,General Surgery,Appendicitis,15-02-2025,8,23-02-2025,Yes,44000
+P0632,67,Male,Neurology,Appendicitis,09-02-2025,11,20-02-2025,Yes,67800
+P0633,47,Female,General Surgery,Appendicitis,06-05-2025,7,13-05-2025,No,75400
+P0634,68,Female,General Surgery,Fracture,28-05-2025,14,11-06-2025,No,44200
+P0635,80,Female,Cardiology,Hypertension,29-10-2024,4,02-11-2024,No,41600
+P0636,69,Male,Neurology,Asthma,06-01-2025,11,17-01-2025,No,47300
+P0637,52,Female,Neurology,Appendicitis,19-01-2025,12,31-01-2025,No,50544.93671
+P0638,47,Female,General Surgery,Migraine,13-09-2024,4,17-09-2024,No,66400
+P0639,68,Female,Pediatrics,Asthma,20-12-2024,11,31-12-2024,No,38400
+P0640,22,Female,Cardiology,Asthma,19-06-2025,10,29-06-2025,No,73100
+P0641,46,Male,General Surgery,Asthma,18-02-2025,11,01-03-2025,No,38000
+P0642,21,Male,Orthopedics,Appendicitis,19-12-2024,11,30-12-2024,No,31000
+P0643,27,Female,Orthopedics,Asthma,14-08-2024,14,28-08-2024,No,57900
+P0644,73,Female,Cardiology,Hypertension,10-04-2025,11,21-04-2025,No,68500
+P0645,34,Male,Pediatrics,Asthma,11-10-2024,2,13-10-2024,Yes,52700
+P0646,34,Male,General Surgery,Appendicitis,15-02-2025,14,01-03-2025,Yes,56500
+P0647,86,Female,Neurology,Asthma,14-01-2025,1,15-01-2025,No,79300
+P0648,51,Male,Cardiology,Migraine,19-02-2025,9,28-02-2025,No,68700
+P0649,23,Female,Pediatrics,Migraine,21-06-2025,12,03-07-2025,No,50500
+P0650,70,Male,Neurology,Appendicitis,15-06-2025,12,27-06-2025,Yes,43500
+P0651,83,Male,Orthopedics,Hypertension,13-12-2024,2,15-12-2024,Yes,66400
+P0652,60,Male,Orthopedics,Hypertension,14-07-2024,13,27-07-2024,No,62400
+P0653,40,Male,Neurology,Appendicitis,05-01-2025,8,13-01-2025,No,50544.93671
+P0654,72,Female,Cardiology,Appendicitis,10-07-2024,9,19-07-2024,No,45100
+P0655,33,Male,Orthopedics,Asthma,20-08-2024,4,24-08-2024,No,48900
+P0656,25,Male,General Surgery,Appendicitis,21-03-2025,8,29-03-2025,No,47800
+P0657,21,Female,Neurology,Fracture,26-06-2024,9,05-07-2024,No,45300
+P0658,21,Male,Neurology,Appendicitis,21-06-2025,10,01-07-2025,No,41000
+P0659,73,Male,Orthopedics,Appendicitis,08-04-2025,10,18-04-2025,No,54000
+P0660,42,Female,Cardiology,Fracture,15-08-2024,5,20-08-2024,No,40300
+P0661,52,Male,General Surgery,Appendicitis,04-12-2024,13,17-12-2024,No,51179.00552
+P0662,84,Female,Cardiology,Asthma,12-05-2025,14,26-05-2025,No,18500
+P0663,44,Female,Pediatrics,Appendicitis,01-08-2024,7,08-08-2024,No,49445.45455
+P0664,49,Female,Pediatrics,Migraine,19-12-2024,10,29-12-2024,Yes,66500
+P0665,67,Female,Orthopedics,Hypertension,07-02-2025,4,11-02-2025,No,36500
+P0666,78,Male,Orthopedics,Migraine,04-12-2024,1,05-12-2024,No,58900
+P0667,68,Female,Orthopedics,Hypertension,28-11-2024,3,01-12-2024,No,37700
+P0668,36,Male,Pediatrics,Asthma,16-03-2025,5,21-03-2025,No,61600
+P0669,38,Male,Cardiology,Asthma,13-04-2025,3,16-04-2025,No,45500
+P0670,22,Male,Cardiology,Appendicitis,08-12-2024,12,20-12-2024,Yes,45000
+P0671,59,Male,Orthopedics,Migraine,05-06-2025,13,18-06-2025,No,50800
+P0672,78,Male,General Surgery,Hypertension,18-04-2025,11,29-04-2025,No,29800
+P0673,39,Male,Cardiology,Asthma,19-07-2024,7,26-07-2024,No,64600
+P0674,38,Male,Pediatrics,Fracture,27-11-2024,12,09-12-2024,No,69600
+P0675,87,Male,Neurology,Asthma,10-01-2025,9,19-01-2025,No,44600
+P0676,18,Male,Neurology,Fracture,05-07-2024,12,17-07-2024,No,57900
+P0677,22,Male,Neurology,Hypertension,27-04-2025,6,03-05-2025,No,61700
+P0678,29,Female,General Surgery,Asthma,25-12-2024,13,07-01-2025,No,48600
+P0679,52,Female,Orthopedics,Appendicitis,31-01-2025,10,10-02-2025,No,48567.19577
+P0680,51,Female,Pediatrics,Hypertension,09-09-2024,1,10-09-2024,No,49445.45455
+P0681,66,Male,General Surgery,Asthma,18-06-2025,7,25-06-2025,No,44100
+P0682,62,Female,Pediatrics,Fracture,18-03-2025,3,21-03-2025,No,40900
+P0683,44,Female,Pediatrics,Asthma,27-06-2024,5,02-07-2024,No,74600
+P0684,43,Female,Orthopedics,Migraine,31-07-2024,10,10-08-2024,No,59200
+P0685,64,Male,Neurology,Appendicitis,06-07-2024,4,10-07-2024,No,53900
+P0686,73,Male,Orthopedics,Fracture,06-01-2025,10,16-01-2025,No,35400
+P0687,80,Male,General Surgery,Migraine,03-04-2025,5,08-04-2025,No,62000
+P0688,52,Male,General Surgery,Appendicitis,17-02-2025,5,22-02-2025,No,51179.00552
+P0689,78,Female,General Surgery,Fracture,29-09-2024,6,05-10-2024,Yes,63200
+P0690,43,Female,Orthopedics,Appendicitis,20-02-2025,14,06-03-2025,Yes,57400
+P0691,53,Female,Pediatrics,Appendicitis,23-05-2025,10,02-06-2025,No,60800
+P0692,18,Female,Pediatrics,Hypertension,27-04-2025,12,09-05-2025,No,45100
+P0693,25,Male,Cardiology,Appendicitis,06-09-2024,10,16-09-2024,No,49157.47126
+P0694,69,Male,General Surgery,Fracture,15-02-2025,13,28-02-2025,No,44700
+P0695,64,Male,Pediatrics,Asthma,02-03-2025,13,15-03-2025,No,41400
+P0696,73,Female,Cardiology,Hypertension,06-10-2024,11,17-10-2024,No,44700
+P0697,31,Male,Pediatrics,Asthma,20-03-2025,6,26-03-2025,No,44600
+P0698,45,Male,General Surgery,Migraine,18-12-2024,8,26-12-2024,Yes,46300
+P0699,19,Female,Neurology,Appendicitis,20-11-2024,8,28-11-2024,No,45900
+P0700,43,Female,General Surgery,Asthma,03-07-2024,11,14-07-2024,No,53600
+P0701,31,Male,Orthopedics,Appendicitis,14-11-2024,9,23-11-2024,Yes,51200
+P0702,76,Male,Pediatrics,Asthma,26-01-2025,8,03-02-2025,No,52500
+P0703,73,Male,Pediatrics,Migraine,20-07-2024,13,02-08-2024,Yes,72800
+P0704,24,Male,Orthopedics,Hypertension,07-06-2025,11,18-06-2025,No,51200
+P0705,20,Male,Orthopedics,Migraine,19-09-2024,2,21-09-2024,No,83200
+P0706,40,Male,Neurology,Hypertension,24-11-2024,14,08-12-2024,No,55300
+P0707,35,Female,Pediatrics,Hypertension,05-09-2024,14,19-09-2024,No,43300
+P0708,55,Female,Pediatrics,Appendicitis,07-11-2024,12,19-11-2024,No,70200
+P0709,32,Female,Neurology,Migraine,07-04-2025,10,17-04-2025,No,48800
+P0710,81,Male,Cardiology,Asthma,30-06-2024,12,12-07-2024,No,14100
+P0711,45,Female,Neurology,Migraine,19-06-2025,11,30-06-2025,No,49900
+P0712,56,Male,General Surgery,Appendicitis,05-10-2024,1,06-10-2024,No,46300
+P0713,74,Male,Pediatrics,Hypertension,11-12-2024,10,21-12-2024,No,74100
+P0714,34,Female,Orthopedics,Appendicitis,09-05-2025,2,11-05-2025,No,36500
+P0715,61,Male,General Surgery,Fracture,18-01-2025,2,20-01-2025,No,51179.00552
+P0716,42,Male,Pediatrics,Fracture,12-06-2025,12,24-06-2025,No,69000
+P0717,34,Female,Neurology,Asthma,04-11-2024,3,07-11-2024,No,55900
+P0718,30,Female,General Surgery,Appendicitis,14-09-2024,10,24-09-2024,No,47400
+P0719,42,Female,Pediatrics,Asthma,16-12-2024,7,23-12-2024,No,38700
+P0720,85,Male,Cardiology,Asthma,25-10-2024,2,27-10-2024,No,55300
+P0721,27,Female,Cardiology,Fracture,02-08-2024,14,16-08-2024,No,49600
+P0722,84,Female,Orthopedics,Asthma,15-02-2025,1,16-02-2025,No,38500
+P0723,35,Male,Pediatrics,Fracture,21-04-2025,14,05-05-2025,No,39300
+P0724,51,Female,Cardiology,Hypertension,02-03-2025,6,08-03-2025,No,37800
+P0725,25,Female,Neurology,Appendicitis,26-06-2024,9,05-07-2024,No,35100
+P0726,57,Female,Pediatrics,Asthma,11-11-2024,3,14-11-2024,No,64000
+P0727,59,Male,Neurology,Fracture,23-04-2025,6,29-04-2025,No,62000
+P0728,58,Male,Neurology,Migraine,10-05-2025,3,13-05-2025,No,64000
+P0729,23,Male,Cardiology,Asthma,21-02-2025,14,07-03-2025,Yes,50100
+P0730,69,Male,Pediatrics,Hypertension,21-09-2024,13,04-10-2024,Yes,46400
+P0731,43,Female,General Surgery,Hypertension,27-04-2025,1,28-04-2025,Yes,46600
+P0732,81,Male,Cardiology,Migraine,06-05-2025,14,20-05-2025,No,65300
+P0733,76,Male,Cardiology,Fracture,26-12-2024,13,08-01-2025,Yes,22700
+P0734,73,Female,Pediatrics,Asthma,03-06-2025,12,15-06-2025,Yes,42300
+P0735,76,Female,Pediatrics,Fracture,11-03-2025,5,16-03-2025,No,36700
+P0736,87,Female,Neurology,Hypertension,30-07-2024,10,09-08-2024,No,70400
+P0737,50,Male,Pediatrics,Fracture,26-03-2025,14,09-04-2025,No,42800
+P0738,52,Male,Neurology,Appendicitis,21-04-2025,13,04-05-2025,No,50544.93671
+P0739,39,Male,Cardiology,Fracture,26-05-2025,11,06-06-2025,Yes,53400
+P0740,38,Female,Orthopedics,Migraine,17-08-2024,4,21-08-2024,No,44400
+P0741,52,Female,General Surgery,Appendicitis,05-04-2025,7,12-04-2025,No,51179.00552
+P0742,87,Male,Cardiology,Appendicitis,16-04-2025,6,22-04-2025,No,49157.47126
+P0743,21,Female,Pediatrics,Migraine,30-10-2024,10,09-11-2024,No,39500
+P0744,79,Female,General Surgery,Appendicitis,10-11-2024,7,17-11-2024,No,60600
+P0745,79,Female,Orthopedics,Appendicitis,14-11-2024,5,19-11-2024,No,53400
+P0746,41,Male,Orthopedics,Asthma,21-01-2025,4,25-01-2025,No,47000
+P0747,72,Female,Neurology,Asthma,13-12-2024,7,20-12-2024,Yes,33500
+P0748,26,Female,General Surgery,Migraine,26-11-2024,7,03-12-2024,Yes,47500
+P0749,20,Male,Neurology,Migraine,26-11-2024,6,02-12-2024,Yes,53900
+P0750,48,Male,Cardiology,Hypertension,24-10-2024,8,01-11-2024,No,54500
+P0751,57,Female,General Surgery,Hypertension,13-03-2025,4,17-03-2025,No,52400
+P0752,53,Female,Cardiology,Asthma,13-05-2025,10,23-05-2025,Yes,36200
+P0753,41,Male,Neurology,Asthma,20-01-2025,5,25-01-2025,No,14000
+P0754,23,Male,General Surgery,Hypertension,26-10-2024,4,30-10-2024,No,51179.00552
+P0755,83,Female,Neurology,Hypertension,20-05-2025,12,01-06-2025,Yes,30400
+P0756,21,Female,General Surgery,Fracture,16-12-2024,1,17-12-2024,No,20500
+P0757,23,Female,Neurology,Fracture,24-03-2025,12,05-04-2025,Yes,52000
+P0758,68,Female,Orthopedics,Hypertension,09-12-2024,8,17-12-2024,No,24400
+P0759,79,Male,Neurology,Fracture,27-10-2024,1,28-10-2024,No,37900
+P0760,74,Female,Orthopedics,Appendicitis,19-12-2024,5,24-12-2024,No,58200
+P0761,83,Female,Neurology,Asthma,25-08-2024,6,31-08-2024,Yes,76600
+P0762,52,Male,General Surgery,Appendicitis,07-03-2025,6,13-03-2025,No,51179.00552
+P0763,43,Female,General Surgery,Hypertension,10-04-2025,13,23-04-2025,Yes,43400
+P0764,68,Male,General Surgery,Migraine,18-03-2025,5,23-03-2025,Yes,49200
+P0765,62,Female,Pediatrics,Hypertension,12-10-2024,3,15-10-2024,No,49445.45455
+P0766,61,Female,Cardiology,Fracture,21-12-2024,5,26-12-2024,No,43200
+P0767,22,Male,General Surgery,Migraine,05-07-2024,12,17-07-2024,No,43300
+P0768,87,Male,Orthopedics,Fracture,13-08-2024,8,21-08-2024,No,52300
+P0769,43,Female,General Surgery,Appendicitis,02-11-2024,14,16-11-2024,No,79100
+P0770,85,Female,Pediatrics,Fracture,03-11-2024,2,05-11-2024,Yes,20900
+P0771,36,Female,Orthopedics,Appendicitis,16-01-2025,6,22-01-2025,Yes,43900
+P0772,37,Male,Pediatrics,Appendicitis,17-11-2024,9,26-11-2024,No,22500
+P0773,29,Female,Orthopedics,Fracture,24-10-2024,8,01-11-2024,No,42400
+P0774,64,Male,Neurology,Fracture,29-01-2025,14,12-02-2025,No,37000
+P0775,18,Male,Cardiology,Appendicitis,08-09-2024,11,19-09-2024,No,27600
+P0776,31,Female,Cardiology,Migraine,07-08-2024,8,15-08-2024,No,63700
+P0777,81,Male,Pediatrics,Appendicitis,02-11-2024,8,10-11-2024,No,53800
+P0778,55,Female,Cardiology,Asthma,27-09-2024,13,10-10-2024,No,61900
+P0779,54,Female,Pediatrics,Appendicitis,27-08-2024,7,03-09-2024,No,42000
+P0780,28,Female,Pediatrics,Migraine,26-08-2024,8,03-09-2024,No,48900
+P0781,20,Female,Pediatrics,Asthma,30-06-2024,13,13-07-2024,No,73900
+P0782,50,Female,Cardiology,Hypertension,14-11-2024,6,20-11-2024,No,50000
+P0783,23,Male,Pediatrics,Hypertension,28-11-2024,2,30-11-2024,No,62100
+P0784,67,Male,Cardiology,Migraine,26-03-2025,2,28-03-2025,No,40700
+P0785,27,Female,Pediatrics,Appendicitis,13-09-2024,8,21-09-2024,No,60700
+P0786,22,Female,General Surgery,Fracture,02-08-2024,11,13-08-2024,No,41800
+P0787,40,Male,Pediatrics,Migraine,29-01-2025,1,30-01-2025,Yes,21600
+P0788,27,Male,Orthopedics,Asthma,26-06-2024,6,02-07-2024,No,48567.19577
+P0789,61,Male,Pediatrics,Asthma,03-11-2024,13,16-11-2024,No,42900
+P0790,19,Male,Neurology,Hypertension,28-03-2025,6,03-04-2025,No,25600
+P0791,30,Female,Pediatrics,Asthma,03-08-2024,11,14-08-2024,No,52900
+P0792,57,Female,Orthopedics,Migraine,24-01-2025,4,28-01-2025,No,36600
+P0793,19,Male,Orthopedics,Asthma,05-10-2024,12,17-10-2024,No,96400
+P0794,82,Female,Cardiology,Migraine,15-05-2025,11,26-05-2025,No,28000
+P0795,80,Male,General Surgery,Fracture,15-08-2024,13,28-08-2024,No,31800
+P0796,34,Female,Pediatrics,Hypertension,20-08-2024,11,31-08-2024,No,63000
+P0797,26,Male,Cardiology,Asthma,14-12-2024,13,27-12-2024,No,48000
+P0798,32,Female,General Surgery,Migraine,14-12-2024,10,24-12-2024,Yes,62700
+P0799,41,Male,Pediatrics,Appendicitis,10-12-2024,3,13-12-2024,No,55700
+P0800,55,Male,Neurology,Hypertension,22-02-2025,13,07-03-2025,Yes,41300
+P0801,52,Female,Pediatrics,Fracture,15-06-2025,11,26-06-2025,No,29300
+P0802,66,Male,Orthopedics,Migraine,11-11-2024,3,14-11-2024,No,66100
+P0803,86,Female,Orthopedics,Fracture,25-03-2025,13,07-04-2025,No,30700
+P0804,79,Female,Neurology,Fracture,30-10-2024,13,12-11-2024,No,58400
+P0805,77,Male,Cardiology,Asthma,29-03-2025,1,30-03-2025,Yes,63800
+P0806,67,Female,General Surgery,Asthma,25-04-2025,3,28-04-2025,No,48100
+P0807,26,Female,Pediatrics,Migraine,27-03-2025,4,31-03-2025,No,45400
+P0808,51,Female,Orthopedics,Appendicitis,27-12-2024,11,07-01-2025,No,35200
+P0809,52,Female,Cardiology,Migraine,27-08-2024,11,07-09-2024,No,56900
+P0810,18,Female,Neurology,Appendicitis,08-09-2024,5,13-09-2024,Yes,4300
+P0811,57,Male,Orthopedics,Fracture,28-03-2025,3,31-03-2025,Yes,60700
+P0812,52,Female,Neurology,Appendicitis,17-06-2025,6,23-06-2025,Yes,50544.93671
+P0813,39,Female,Pediatrics,Migraine,12-09-2024,11,23-09-2024,Yes,46700
+P0814,77,Female,General Surgery,Migraine,07-05-2025,14,21-05-2025,No,53600
+P0815,81,Female,Orthopedics,Appendicitis,03-06-2025,12,15-06-2025,No,29400
+P0816,89,Female,Orthopedics,Fracture,26-12-2024,5,31-12-2024,No,13800
+P0817,28,Male,Pediatrics,Fracture,01-12-2024,3,04-12-2024,No,57000
+P0818,31,Female,Cardiology,Appendicitis,21-09-2024,6,27-09-2024,Yes,69700
+P0819,77,Male,General Surgery,Fracture,11-06-2025,6,17-06-2025,No,23900
+P0820,47,Male,Orthopedics,Asthma,20-11-2024,14,04-12-2024,Yes,34200
+P0821,52,Male,General Surgery,Appendicitis,23-11-2024,8,01-12-2024,No,51179.00552
+P0822,54,Male,Orthopedics,Migraine,25-06-2024,2,27-06-2024,No,55400
+P0823,22,Female,General Surgery,Hypertension,25-11-2024,1,26-11-2024,Yes,94400
+P0824,43,Male,Neurology,Migraine,25-05-2025,4,29-05-2025,No,66100
+P0825,79,Male,Orthopedics,Asthma,11-12-2024,7,18-12-2024,No,62500
+P0826,21,Female,General Surgery,Fracture,17-01-2025,11,28-01-2025,No,38500
+P0827,59,Female,Cardiology,Appendicitis,28-07-2024,10,07-08-2024,No,49157.47126
+P0828,35,Female,Neurology,Asthma,22-06-2025,3,25-06-2025,Yes,72400
+P0829,57,Male,Neurology,Hypertension,01-01-2025,3,04-01-2025,No,47500
+P0830,89,Female,Cardiology,Appendicitis,18-10-2024,5,23-10-2024,No,48200
+P0831,56,Female,General Surgery,Fracture,17-03-2025,5,22-03-2025,Yes,52100
+P0832,31,Male,Pediatrics,Asthma,27-11-2024,13,10-12-2024,No,40000
+P0833,49,Female,Cardiology,Appendicitis,06-06-2025,10,16-06-2025,Yes,54000
+P0834,68,Female,General Surgery,Asthma,16-09-2024,3,19-09-2024,No,53700
+P0835,55,Female,Cardiology,Asthma,07-09-2024,9,16-09-2024,Yes,72200
+P0836,40,Female,Cardiology,Fracture,04-01-2025,4,08-01-2025,No,47200
+P0837,80,Male,Orthopedics,Migraine,05-06-2025,13,18-06-2025,No,60100
+P0838,52,Female,General Surgery,Appendicitis,24-07-2024,13,06-08-2024,No,51179.00552
+P0839,42,Female,Pediatrics,Fracture,22-08-2024,3,25-08-2024,No,59600
+P0840,34,Male,Orthopedics,Asthma,07-05-2025,11,18-05-2025,No,46200
+P0841,83,Female,Cardiology,Fracture,05-04-2025,2,07-04-2025,No,58600
+P0842,70,Male,Cardiology,Migraine,23-01-2025,10,02-02-2025,No,60900
+P0843,68,Female,Cardiology,Appendicitis,04-01-2025,13,17-01-2025,No,34000
+P0844,56,Male,General Surgery,Migraine,10-01-2025,11,21-01-2025,Yes,66500
+P0845,68,Male,General Surgery,Hypertension,16-02-2025,9,25-02-2025,Yes,47500
+P0846,87,Male,Orthopedics,Appendicitis,01-04-2025,4,05-04-2025,No,43000
+P0847,23,Male,Pediatrics,Migraine,15-02-2025,3,18-02-2025,No,39300
+P0848,84,Female,Orthopedics,Asthma,27-11-2024,7,04-12-2024,No,54500
+P0849,24,Male,Neurology,Appendicitis,05-07-2024,8,13-07-2024,No,49900
+P0850,68,Female,Cardiology,Appendicitis,07-02-2025,11,18-02-2025,No,55600
+P0851,89,Male,Cardiology,Fracture,04-12-2024,14,18-12-2024,No,55900
+P0852,59,Male,Cardiology,Asthma,02-07-2024,2,04-07-2024,No,59100
+P0853,81,Male,Orthopedics,Hypertension,30-12-2024,7,06-01-2025,No,91600
+P0854,32,Female,Orthopedics,Migraine,14-08-2024,12,26-08-2024,Yes,50600
+P0855,46,Male,Cardiology,Fracture,23-04-2025,5,28-04-2025,No,39000
+P0856,50,Female,Orthopedics,Migraine,07-02-2025,11,18-02-2025,Yes,19700
+P0857,44,Female,General Surgery,Hypertension,06-04-2025,5,11-04-2025,Yes,32100
+P0858,53,Female,General Surgery,Hypertension,05-03-2025,3,08-03-2025,No,68500
+P0859,46,Female,Orthopedics,Appendicitis,29-03-2025,5,03-04-2025,No,60800
+P0860,52,Female,Cardiology,Appendicitis,20-01-2025,12,01-02-2025,No,49157.47126
+P0861,74,Female,Orthopedics,Migraine,14-07-2024,2,16-07-2024,No,87000
+P0862,44,Female,Orthopedics,Asthma,16-10-2024,4,20-10-2024,No,54900
+P0863,72,Female,Orthopedics,Asthma,04-04-2025,6,10-04-2025,Yes,56900
+P0864,50,Female,Neurology,Appendicitis,13-02-2025,1,14-02-2025,No,83700
+P0865,85,Male,General Surgery,Migraine,29-04-2025,10,09-05-2025,No,76100
+P0866,83,Male,Pediatrics,Migraine,18-04-2025,4,22-04-2025,No,61700
+P0867,27,Male,Pediatrics,Appendicitis,06-03-2025,6,12-03-2025,No,49445.45455
+P0868,22,Male,Neurology,Migraine,15-03-2025,9,24-03-2025,No,63800
+P0869,55,Male,Orthopedics,Fracture,17-07-2024,14,31-07-2024,No,46400
+P0870,30,Female,Neurology,Hypertension,24-05-2025,11,04-06-2025,No,54300
+P0871,48,Female,Neurology,Fracture,26-05-2025,11,06-06-2025,No,58600
+P0872,64,Female,Cardiology,Appendicitis,19-12-2024,13,01-01-2025,No,48100
+P0873,69,Female,General Surgery,Asthma,30-04-2025,2,02-05-2025,No,35500
+P0874,73,Female,Pediatrics,Appendicitis,01-11-2024,11,12-11-2024,No,46000
+P0875,32,Female,Orthopedics,Asthma,15-11-2024,7,22-11-2024,No,35200
+P0876,46,Female,Pediatrics,Appendicitis,23-10-2024,6,29-10-2024,No,51000
+P0877,25,Male,Pediatrics,Migraine,18-12-2024,2,20-12-2024,No,23300
+P0878,22,Male,General Surgery,Fracture,24-04-2025,8,02-05-2025,No,55100
+P0879,46,Male,Pediatrics,Asthma,03-03-2025,7,10-03-2025,Yes,25500
+P0880,64,Male,Pediatrics,Appendicitis,15-04-2025,11,26-04-2025,Yes,49445.45455
+P0881,85,Female,Neurology,Fracture,11-06-2025,5,16-06-2025,No,57600
+P0882,62,Female,General Surgery,Hypertension,13-07-2024,12,25-07-2024,No,61900
+P0883,19,Female,Cardiology,Fracture,24-01-2025,5,29-01-2025,Yes,60100
+P0884,52,Male,Orthopedics,Appendicitis,02-10-2024,7,09-10-2024,No,48567.19577
+P0885,53,Female,Pediatrics,Appendicitis,05-07-2024,9,14-07-2024,Yes,33200
+P0886,53,Female,Orthopedics,Asthma,06-11-2024,11,17-11-2024,No,64700
+P0887,43,Female,Cardiology,Asthma,30-04-2025,9,09-05-2025,No,33600
+P0888,60,Male,Orthopedics,Fracture,06-09-2024,9,15-09-2024,Yes,66400
+P0889,44,Female,Cardiology,Migraine,04-03-2025,6,10-03-2025,Yes,59400
+P0890,86,Male,Neurology,Migraine,25-04-2025,10,05-05-2025,No,70400
+P0891,37,Male,Pediatrics,Hypertension,24-05-2025,6,30-05-2025,No,50400
+P0892,28,Male,Cardiology,Hypertension,07-06-2025,3,10-06-2025,No,37700
+P0893,55,Male,Orthopedics,Appendicitis,21-05-2025,1,22-05-2025,No,30600
+P0894,23,Female,Pediatrics,Fracture,09-08-2024,7,16-08-2024,No,32300
+P0895,89,Male,Neurology,Hypertension,15-12-2024,4,19-12-2024,Yes,25400
+P0896,40,Male,Pediatrics,Hypertension,11-11-2024,1,12-11-2024,No,64100
+P0897,64,Female,Cardiology,Fracture,29-06-2024,8,07-07-2024,Yes,66000
+P0898,63,Female,Neurology,Appendicitis,31-07-2024,12,12-08-2024,No,58300
+P0899,29,Male,Orthopedics,Hypertension,31-07-2024,6,06-08-2024,No,49500
+P0900,52,Female,Neurology,Appendicitis,03-02-2025,6,09-02-2025,No,50544.93671
+P0901,79,Male,Neurology,Asthma,11-11-2024,2,13-11-2024,Yes,48500
+P0902,52,Male,General Surgery,Appendicitis,21-09-2024,1,22-09-2024,No,51179.00552
+P0903,52,Male,Neurology,Appendicitis,25-08-2024,13,07-09-2024,Yes,50544.93671
+P0904,85,Male,Neurology,Migraine,29-03-2025,14,12-04-2025,Yes,44900
+P0905,22,Female,Pediatrics,Appendicitis,19-01-2025,14,02-02-2025,No,59500
+P0906,54,Male,Orthopedics,Migraine,06-05-2025,2,08-05-2025,No,40500
+P0907,89,Female,Pediatrics,Asthma,21-08-2024,4,25-08-2024,No,39500
+P0908,48,Female,Pediatrics,Fracture,29-07-2024,2,31-07-2024,Yes,60200
+P0909,26,Female,Cardiology,Migraine,29-08-2024,1,30-08-2024,No,42500
+P0910,68,Female,Pediatrics,Migraine,12-09-2024,7,19-09-2024,No,52000
+P0911,46,Male,General Surgery,Appendicitis,23-11-2024,11,04-12-2024,No,44900
+P0912,57,Female,General Surgery,Asthma,08-09-2024,11,19-09-2024,No,49800
+P0913,58,Male,Cardiology,Fracture,26-05-2025,12,07-06-2025,No,39900
+P0914,28,Female,Orthopedics,Appendicitis,15-01-2025,8,23-01-2025,No,40400
+P0915,40,Female,Orthopedics,Appendicitis,11-08-2024,6,17-08-2024,No,37700
+P0916,18,Male,Pediatrics,Asthma,29-03-2025,4,02-04-2025,No,62600
+P0917,63,Male,Pediatrics,Fracture,05-09-2024,14,19-09-2024,No,52600
+P0918,38,Male,Pediatrics,Asthma,16-11-2024,6,22-11-2024,No,63800
+P0919,53,Female,Orthopedics,Fracture,29-01-2025,3,01-02-2025,No,65400
+P0920,71,Female,Neurology,Asthma,19-01-2025,12,31-01-2025,No,43100
+P0921,74,Male,General Surgery,Appendicitis,30-04-2025,8,08-05-2025,No,63200
+P0922,18,Male,Neurology,Appendicitis,10-03-2025,10,20-03-2025,No,49800
+P0923,80,Male,Neurology,Hypertension,14-10-2024,14,28-10-2024,Yes,47600
+P0924,71,Male,Orthopedics,Migraine,08-06-2025,13,21-06-2025,Yes,68800
+P0925,52,Female,Neurology,Appendicitis,19-08-2024,13,01-09-2024,No,50544.93671
+P0926,57,Male,Cardiology,Hypertension,20-06-2025,2,22-06-2025,No,44700
+P0927,32,Male,Pediatrics,Migraine,24-12-2024,5,29-12-2024,No,57300
+P0928,38,Male,Cardiology,Asthma,31-12-2024,1,01-01-2025,No,31000
+P0929,64,Male,General Surgery,Fracture,06-07-2024,6,12-07-2024,No,53700
+P0930,70,Female,Pediatrics,Migraine,23-07-2024,2,25-07-2024,Yes,27500
+P0931,26,Male,Neurology,Appendicitis,26-08-2024,4,30-08-2024,Yes,35200
+P0932,69,Female,General Surgery,Hypertension,29-06-2024,6,05-07-2024,No,58800
+P0933,74,Male,Pediatrics,Migraine,02-06-2025,10,12-06-2025,No,9900
+P0934,43,Male,Neurology,Migraine,19-09-2024,11,30-09-2024,No,77000
+P0935,58,Female,Cardiology,Appendicitis,04-03-2025,8,12-03-2025,No,62500
+P0936,52,Male,Pediatrics,Asthma,04-11-2024,12,16-11-2024,No,22400
+P0937,80,Female,Neurology,Fracture,10-08-2024,8,18-08-2024,No,86000
+P0938,42,Female,Cardiology,Appendicitis,13-08-2024,11,24-08-2024,No,90100
+P0939,52,Male,General Surgery,Appendicitis,07-01-2025,6,13-01-2025,Yes,51179.00552
+P0940,19,Female,General Surgery,Asthma,01-06-2025,4,05-06-2025,No,36100
+P0941,24,Female,General Surgery,Migraine,18-06-2025,8,26-06-2025,No,75300
+P0942,51,Female,General Surgery,Fracture,13-06-2025,13,26-06-2025,No,44800
+P0943,34,Female,Orthopedics,Hypertension,08-04-2025,8,16-04-2025,Yes,52400
+P0944,60,Female,Pediatrics,Hypertension,11-04-2025,10,21-04-2025,No,68300
+P0945,76,Female,Pediatrics,Appendicitis,23-08-2024,14,06-09-2024,No,47700
+P0946,68,Female,Orthopedics,Asthma,27-04-2025,1,28-04-2025,No,46400
+P0947,71,Female,Neurology,Appendicitis,15-11-2024,4,19-11-2024,Yes,30900
+P0948,52,Male,Neurology,Appendicitis,16-08-2024,4,20-08-2024,No,50544.93671
+P0949,42,Male,General Surgery,Appendicitis,20-08-2024,7,27-08-2024,No,46100
+P0950,88,Female,Cardiology,Hypertension,04-12-2024,14,18-12-2024,No,31400
+P0951,69,Male,Neurology,Hypertension,24-04-2025,14,08-05-2025,No,32800
+P0952,87,Female,Cardiology,Appendicitis,25-08-2024,11,05-09-2024,No,50500
+P0953,50,Female,Pediatrics,Hypertension,28-02-2025,7,07-03-2025,No,22300
+P0954,66,Male,Cardiology,Asthma,26-01-2025,13,08-02-2025,No,36800
+P0955,46,Female,Pediatrics,Appendicitis,04-08-2024,11,15-08-2024,No,79200
+P0956,80,Female,Orthopedics,Hypertension,30-05-2025,8,07-06-2025,No,44800
+P0957,39,Female,Orthopedics,Fracture,21-01-2025,11,01-02-2025,No,42900
+P0958,43,Female,General Surgery,Appendicitis,05-11-2024,5,10-11-2024,Yes,44800
+P0959,45,Male,Neurology,Appendicitis,30-07-2024,7,06-08-2024,No,45000
+P0960,66,Female,General Surgery,Asthma,23-07-2024,8,31-07-2024,No,58600
+P0961,88,Female,Pediatrics,Migraine,11-05-2025,9,20-05-2025,Yes,57600
+P0962,66,Female,General Surgery,Migraine,09-11-2024,3,12-11-2024,No,44100
+P0963,37,Male,Cardiology,Asthma,19-01-2025,3,22-01-2025,No,46800
+P0964,80,Female,Pediatrics,Asthma,16-07-2024,4,20-07-2024,No,69700
+P0965,78,Male,Orthopedics,Asthma,31-05-2025,5,05-06-2025,Yes,27300
+P0966,66,Male,Neurology,Migraine,11-10-2024,10,21-10-2024,No,49100
+P0967,88,Female,Pediatrics,Asthma,20-07-2024,1,21-07-2024,No,52000
+P0968,18,Female,Pediatrics,Hypertension,13-03-2025,7,20-03-2025,No,38300
+P0969,30,Male,Cardiology,Appendicitis,13-03-2025,9,22-03-2025,No,48300
+P0970,68,Female,Neurology,Appendicitis,28-11-2024,8,06-12-2024,Yes,36300
+P0971,73,Male,Orthopedics,Fracture,12-10-2024,5,17-10-2024,No,59600
+P0972,79,Male,Pediatrics,Fracture,15-08-2024,14,29-08-2024,Yes,29900
+P0973,49,Female,Pediatrics,Appendicitis,01-03-2025,14,15-03-2025,No,65900
+P0974,52,Female,Cardiology,Appendicitis,21-05-2025,4,25-05-2025,No,49157.47126
+P0975,52,Male,General Surgery,Appendicitis,16-02-2025,12,28-02-2025,No,51179.00552
+P0976,66,Male,Orthopedics,Migraine,24-02-2025,7,03-03-2025,Yes,34900
+P0977,62,Male,Neurology,Hypertension,13-09-2024,5,18-09-2024,No,65500
+P0978,47,Male,Pediatrics,Migraine,16-05-2025,7,23-05-2025,Yes,40200
+P0979,33,Female,Pediatrics,Asthma,30-04-2025,12,12-05-2025,No,32500
+P0980,57,Female,Orthopedics,Appendicitis,24-03-2025,1,25-03-2025,No,65800
+P0981,36,Female,General Surgery,Appendicitis,23-03-2025,1,24-03-2025,No,36400
+P0982,35,Female,Pediatrics,Hypertension,31-12-2024,10,10-01-2025,No,48600
+P0983,18,Female,Orthopedics,Migraine,05-05-2025,14,19-05-2025,Yes,62300
+P0984,64,Male,Cardiology,Fracture,07-05-2025,13,20-05-2025,No,52400
+P0985,83,Female,General Surgery,Fracture,17-10-2024,3,20-10-2024,Yes,76000
+P0986,55,Female,Neurology,Migraine,27-04-2025,14,11-05-2025,Yes,37500
+P0987,52,Female,Pediatrics,Appendicitis,22-01-2025,11,02-02-2025,No,49445.45455
+P0988,80,Female,Orthopedics,Hypertension,22-03-2025,2,24-03-2025,Yes,48000
+P0989,21,Female,Cardiology,Hypertension,24-02-2025,2,26-02-2025,Yes,59300
+P0990,18,Male,Neurology,Migraine,13-11-2024,7,20-11-2024,No,69300
+P0991,25,Male,Orthopedics,Fracture,14-04-2025,12,26-04-2025,No,51100
+P0992,46,Male,Orthopedics,Hypertension,03-02-2025,10,13-02-2025,Yes,47900
+P0993,72,Female,Neurology,Hypertension,29-12-2024,2,31-12-2024,No,27800
+P0994,20,Male,Cardiology,Asthma,27-04-2025,11,08-05-2025,No,51700
+P0995,49,Male,Cardiology,Asthma,09-02-2025,4,13-02-2025,No,40200
+P0996,27,Female,General Surgery,Hypertension,24-11-2024,2,26-11-2024,No,59300
+P0997,51,Female,Pediatrics,Migraine,10-03-2025,6,16-03-2025,Yes,43900
+P0998,72,Female,Neurology,Appendicitis,22-01-2025,8,30-01-2025,No,46400
+P0999,49,Male,Neurology,Appendicitis,17-10-2024,10,27-10-2024,No,50544.93671
+P1000,67,Male,Neurology,Hypertension,25-05-2025,4,29-05-2025,No,22800
