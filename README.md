@@ -41,7 +41,6 @@ Hospital_Patient_Analytics/
 ├── README.md
 └── requirements.txt
 
-
 ---
 
 ## 📊 Key Insights
@@ -56,7 +55,7 @@ Hospital_Patient_Analytics/
 ## 🚀 How to Run the Project
 
 1. **Clone the Repository**
-```bash
+
 git clone https://github.com/parvsirohi/Hospital_Patient_Analytics.git
 cd Hospital_Patient_Analytics
 
@@ -66,11 +65,14 @@ Run Jupyter Notebooks
 
 jupyter notebook notebooks/hospital_eda.ipynb
 
+---
 
 🧠 Future Improvements
 -Add predictive analytics (readmission prediction using classification models)
 -Connect to a live SQL server
 -Deploy dashboard to a cloud service (Power BI Online or Tableau Public)
+
+---
 
 🙋‍♀️ About Me
 I’m a data analyst passionate about turning real-world data into business insights using Python, SQL, and BI tools.
