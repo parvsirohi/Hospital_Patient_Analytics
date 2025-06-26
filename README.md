@@ -78,6 +78,6 @@ jupyter notebook notebooks/hospital_eda.ipynb
 I’m a data analyst passionate about turning real-world data into business insights using Python, SQL, and BI tools.
 
 📧 Email: parvsirohi218@email.com
-🔗 LinkedIn
+🔗 www.linkedin.com/in/parv-sirohi-
 
 
